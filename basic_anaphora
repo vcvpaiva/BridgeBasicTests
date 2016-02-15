@@ -1,0 +1,58 @@
+init-tqa
+tqa {Although Mary likes vegetables she eats them raw.} \
+    {Does Mary like vegetables?} YES YES 
+
+tqa {Although Mary likes vegetables she eats them raw.} \
+    {Does Mary eat vegetables?} YES YES 
+
+tqa {Although Mary likes vegetables she  doesn't eat them.} \
+    {Does Mary like vegetables?} YES YES 
+
+tqa {Although Mary likes fruit she  does eat it.} \
+    {Does Mary eat fruit?} YES YES 
+
+tqa {Although he lives in London, John hates it.} \
+    {Does John hate London?} YES YES 
+
+tqa {The monkey took the banana and ate it.} \
+    {The monkey ate the banana.} YES YES 
+
+tqa {Pam went home because she felt sick.} \
+    {Pam felt sick.} YES YES 
+
+tqa {Mary eats fruit because she  likes it.} \
+    {Does Mary eat fruit?} YES YES 
+
+tqa {Mary eats fruit because she  likes it.} \
+    {Does Mary like fruit?} YES YES 
+
+tqa {Mary eats fruit because it is good for her.} \
+    {Fruit is good for Mary.} YES YES 
+
+tqa {I love Mary's works because she uses color  brilliantly.} \
+    {Mary uses color brilliantly.} YES YES 
+
+tqa {Paul doesn't like broccoli, but he  eats it.} \
+    {Does Paul like broccoli?} NO NO 
+
+tqa {Paul doesn't like broccoli, but he  eats it.} \
+    {Does Paul eat broccoli?} YES YES 
+
+tqa {Ulysses slept but he isn't obese.} \
+    {Ulysses isn't obese.} YES YES 
+
+tqa {Ulysses  isn't fat.} \
+    {Ulysses is fat.} NO NO 
+
+tqa {The insects  pass on malaria to  humans they bite, but they do not get sick themselves.} \
+    {The insects bite humans.} YES YES 
+
+tqa {A well-dressed man was speaking; he had a foreign accent.} \
+    {The well-dressed man had a foreign accent.} YES YES 
+
+tqa {A well-dressed man was speaking; he had a foreign accent.} \
+    {The well-dressed man was speaking.} YES YES 
+
+display-tqa-tally
+# Number correct:   18
+# Number incorrect: 0

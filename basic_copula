@@ -1,0 +1,136 @@
+init-tqa
+tqa {Ed is a big boy.} \
+    {Ed is a boy.} YES YES 
+
+tqa {Ed is a big boy.} \
+    {Ed is big.} YES YES 
+
+tqa {Ed is big.} \
+    {Ed is a big boy.} UNKNOWN UNKNOWN 
+
+tqa {There is a boy in the park.} \
+    {A boy is in the park.} YES YES 
+
+tqa {A boy is in the park.} \
+    {There is a boy in the park.} YES YES 
+
+tqa {A boy is tall.} \
+    {There is a tall boy.} YES YES 
+
+tqa {There is a tall boy.} \
+    {A boy is tall.} YES YES 
+
+tqa {The yellow ball is not heavy.} \
+    {There is a heavy ball.} UNKNOWN UNKNOWN 
+
+tqa {The yellow ball is heavy.} \
+    {There is no heavy ball.} NO NO 
+
+tqa {The yellow ball is heavy.} \
+    {A ball is yellow.} YES YES 
+
+tqa {The boy  is not in the garden.} \
+    {The boy is  in the garden.} NO NO 
+
+tqa {The boy is in the garden.} \
+    {The boy is not in the garden.} NO NO 
+
+tqa {The boy is in the garden.} \
+    {The boy is in the garden.} YES YES 
+
+tqa {The boy is not in the garden.} \
+    {The boy is not in the garden.} YES YES 
+
+tqa {John's dog is Fido.} \
+    {John's dog is Fido.} YES YES 
+
+tqa {John's dog is not Fido.} \
+    {John's dog is not Fido.} YES YES 
+
+tqa {John's dog is Fido.} \
+    {John's dog is not Fido.} NO NO 
+
+tqa {John's dog is not Fido.} \
+    {John's dog is Fido.} NO NO 
+
+tqa {Fido is John's dog.} \
+    {Fido is John's dog.} YES YES 
+
+tqa {Fido is not John's dog.} \
+    {Fido is not John's dog.} YES YES 
+
+tqa {Fido is not John's dog.} \
+    {Fido is John's dog.} NO NO 
+
+tqa {Fido is John's dog.} \
+    {Fido is not John's dog.} NO NO 
+
+tqa {Monsters exist.} \
+    {There are monsters.} YES YES 
+
+tqa {There are monsters.} \
+    {Something is a monster.} YES YES 
+
+tqa {There are monsters.} \
+    {There is a monster.} YES YES 
+
+tqa {There are no monsters.} \
+    {There is a monster.} NO NO 
+
+tqa {There are no monsters.} \
+    {John is a monster.} NO NO 
+
+tqa {There are monsters.} \
+    {John is a monster.} UNKNOWN UNKNOWN 
+
+tqa {There are monsters.} \
+    {John is  not a monster.} UNKNOWN UNKNOWN 
+
+tqa {John is a monster.} \
+    {There are no monsters.} NO NO 
+
+tqa {John is not a monster.} \
+    {There are no monsters.} UNKNOWN UNKNOWN 
+
+tqa {There are no monsters.} \
+    {Mary met a monster.} NO NO 
+
+tqa {John is a monster.} \
+    {There are monsters.} YES YES 
+
+tqa {Mary met a  monster.} \
+    {There are monsters.} YES YES 
+
+tqa {Fido is John's dog.} \
+    {John's dog is Fido.} YES YES 
+
+tqa {John's dog is Fido.} \
+    {Fido is John's dog.} YES YES 
+
+tqa {The boy in the park is not in the garden.} \
+    {The boy is in the garden.} NO NO 
+
+tqa {There are monsters.} \
+    {Monsters exist.} YES YES 
+
+tqa {There are monsters.} \
+    {No monsters  exist.} NO NO 
+
+tqa {A boy in the park is not short.} \
+    {A boy is not short.} YES YES 
+
+tqa {A boy is not short.} \
+    {A boy in the park is not short.} UNKNOWN UNKNOWN 
+
+tqa {Rocks are hard.} \
+    {Rocks are not hard.} NO NO 
+
+tqa {The rocks are flimsy.} \
+    {The rocks are not flimsy.} NO NO 
+
+tqa {The boy is tall.} \
+    {The boy is not tall.} NO NO 
+
+display-tqa-tally
+# Number correct:   44
+# Number incorrect: 0

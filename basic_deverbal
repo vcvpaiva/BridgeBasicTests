@@ -1,0 +1,97 @@
+init-tqa
+tqa {Ed's abandonment of the child caused consternation.} \
+    {Ed abandoned a child.	} YES YES 
+
+tqa {Ed's abandonment caused consternation.} \
+    {Ed was abandoned.	} YES YES 
+
+tqa {The abandonment of the child by Ed caused consternation.} \
+    {Ed abandoned a child.	} YES YES 
+
+tqa {Ed's abandonment of the city happened on Sunday.} \
+    {Ed abandoned the city.	} YES YES 
+
+tqa {The abandonment of the city happened on Sunday.} \
+    {The city was abandoned.	} YES YES 
+
+tqa {Ed's abandonment of the child caused consternation.} \
+    {Ed abandoned a girl.	} UNKNOWN UNKNOWN 
+
+tqa {Ed's abbreviation of the sermon was welcome.} \
+    {Ed abbreviated the sermon.	} YES YES 
+
+tqa {The abbreviation of the sermon  by Ed was welcome.} \
+    {Ed abbreviated the sermon.	} YES YES 
+
+tqa {The abbreviation of the sermon was welcome.} \
+    {The sermon was abbreviated.	} YES YES 
+
+tqa {Ed's abdication of the throne was welcome.} \
+    {Ed abdicated the throne.	} YES YES 
+
+tqa {Ed's  abdication  was welcome.} \
+    {Ed abdicated.	} YES YES 
+
+tqa {Ed is an abdicator.} \
+    {Ed abdicated.	} YES YES 
+
+tqa {Ed's assessment of the essay was damaging.} \
+    {Ed assessed the essay.	} YES YES 
+
+tqa {Ed's assessment by the director was damaging.} \
+    {Ed  was assessed by the director.	} YES YES 
+
+tqa {Ed's creation of the company was successful.} \
+    {Ed created the company.	} YES YES 
+
+tqa {The death of Ed came as a surprise.} \
+    {Ed died.	} YES YES 
+
+tqa {Ed's death came as a surprise.} \
+    {Ed died.	} YES YES 
+
+tqa {Ed's destruction of the city was tragic.} \
+    {Ed destroyed the city.} YES YES 
+
+tqa {The destruction of the city was tragic.} \
+    {The city was destroyed.	} YES YES 
+
+tqa {Ed is a destroyer of marriages.} \
+    {Ed destroyed a marriage.	} YES YES 
+
+tqa {Mary's happily eating the cake annoyed Ed.} \
+    {Mary happily ate the cake.	} YES YES 
+
+tqa {Mary's  eating of  the cake annoyed Ed.} \
+    {Mary  ate the cake.	} YES YES 
+
+tqa {Ed is an employee of the company.} \
+    {The company employs Ed.	} YES YES 
+
+tqa {Ed's employer arrived.} \
+    {Ed is employed.	} YES YES 
+
+tqa {Bill is Ed's employer.} \
+    {Bill employs Ed.	} YES YES 
+
+tqa {The company's employment of Ed is going well.} \
+    {The company employs Ed.	} YES YES 
+
+tqa {Ed's giving to charity annoyed Mary.} \
+    {Ed gave to charity.	} YES YES 
+
+tqa {Ed's giving money to charity annoyed Mary.} \
+    {Ed gave money to charity.	} YES YES 
+
+tqa {Ed's hopping annoyed Mary.} \
+    {Ed hopped.	} YES YES 
+
+tqa {Ed is a writer.} \
+    {Ed writes.	} YES YES 
+
+tqa {Ed is a fiction writer.} \
+    {Ed writes fiction.	} YES YES 
+
+display-tqa-tally
+# Number correct:   31
+# Number incorrect: 0

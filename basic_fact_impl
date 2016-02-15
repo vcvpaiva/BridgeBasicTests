@@ -1,0 +1,169 @@
+init-tqa
+tqa {Ed abhorred that Mary had vacation.} \
+    {Mary had vacation.} YES YES 
+
+tqa {They acknowledged the report to be correct.} \
+    {The report was correct.} YES YES 
+
+tqa {Children were allowed to hop.} \
+    {Children hopped.} YES YES 
+
+tqa {Ed anticipated that Mary hopped.} \
+    {Mary hopped.} UNKNOWN UNKNOWN 
+
+tqa {Ed didn't attempt to go.} \
+    {Ed went.} NO NO 
+
+tqa {Ed attested that Mary ran.} \
+    {Mary ran.} UNKNOWN UNKNOWN 
+
+tqa {Ed authorized Mary to run.} \
+    {Mary ran.} UNKNOWN UNKNOWN 
+
+tqa {It had begun to rain.} \
+    {It rained.} YES UNKNOWN 
+
+tqa {Ed didn't bother to cry.} \
+    {Ed didn't cry.} YES YES 
+
+tqa {Ed calculated that the cost had risen.} \
+    {The cost has risen.} UNKNOWN UNKNOWN 
+
+tqa {Ed didn't calculate that the cost had risen.} \
+    {The cost has risen.} YES YES 
+
+tqa {Ed dared to speak.} \
+    {Ed spoke.} YES YES 
+
+tqa {Ed discovered that Mary was sleeping.} \
+    {Mary was sleeping.} YES YES 
+
+tqa {Ed discovered Bill to be in Paris.} \
+    {Bill was in Paris.} YES YES 
+
+tqa {John didn't explain that Bill didn't arrive.} \
+    {Bill didn't arrive.} YES YES 
+
+tqa {Ed  didn't explain to Mary that Bill didn't arrive.} \
+    {Bill arrived.} NO NO 
+
+tqa {Ed enabled Mary to write.} \
+    {Mary wrote.} YES YES 
+
+tqa {Ed failed to open the door.} \
+    {Ed  opened the door.} NO NO 
+
+tqa {Ed helped to clean the house.} \
+    {Ed cleaned the house.} YES YES 
+
+tqa {Ed didn't hesitate to go.} \
+    {Ed went.} YES YES 
+
+tqa {Ed hinted that he knew about the affair.} \
+    {Ed knew about the affair.} UNKNOWN UNKNOWN 
+
+tqa {John made Mary leave.} \
+    {Mary left.} YES UNKNOWN 
+
+tqa {Ed managed to leave.} \
+    {Ed left.} YES YES 
+
+tqa {Ed didn't manage to leave.} \
+    {Ed left.} NO NO 
+
+tqa {Ed neglected to call Mary.} \
+    {Ed called Mary.} NO NO 
+
+tqa {Ed noted that Mary went.} \
+    {Mary went.} YES YES 
+
+tqa {Ed noticed that Mary went.} \
+    {Mary went.} YES YES 
+
+tqa {Ed observed that Mary went.} \
+    {Mary went.} YES YES 
+
+tqa {Ed persuaded Mary to go.} \
+    {Mary went.} UNKNOWN UNKNOWN 
+
+tqa {Ed persuaded Mary that she had lied.} \
+    {Mary had lied.} UNKNOWN UNKNOWN 
+
+tqa {All the monks pitied that he was acquiring unwholesome Karma.} \
+    {He was acquiring unwholesome Karma.} YES YES 
+
+tqa {The demon possessed him to curse.} \
+    {He cursed.} UNKNOWN UNKNOWN 
+
+tqa {Ed pretended that Mary arrived.} \
+    {Mary arrived.} NO NO 
+
+tqa {Ed pretended to cry.} \
+    {Ed cried.} NO NO 
+
+tqa {Ed prevailed on Mary to go.} \
+    {Mary went.} YES UNKNOWN 
+
+tqa {Ed realized that Mary arrived.} \
+    {Mary arrived.} YES YES 
+
+tqa {Ed reckoned that Mary arrived.} \
+    {Mary arrived.} UNKNOWN UNKNOWN 
+
+tqa {Ed reckoned there to be fish in the pond.} \
+    {There were fish in the pond.} UNKNOWN UNKNOWN 
+
+tqa {John recognized the idea to be foolish.} \
+    {The idea was foolish.} YES YES 
+
+tqa {John recognized that Mary arrived.} \
+    {Mary arrived.} YES YES 
+
+tqa {Ed refrained from commenting.} \
+    {Ed commented.} NO NO 
+
+tqa {Ed refused to go.} \
+    {Ed went.} NO NO 
+
+tqa {Ed registered that Mary went.} \
+    {Mary went.} YES YES 
+
+tqa {Ed regretted that Mary went.} \
+    {Mary went.} YES YES 
+
+tqa {Ed regretted    smoking.} \
+    {Ed smoked.} YES YES 
+
+tqa {Ed respected that Mary pursued her career.} \
+    {Mary pursued her career.} YES YES 
+
+tqa {Ed restarted to write a novel.} \
+    {Ed wrote a novel.} UNKNOWN UNKNOWN 
+
+tqa {Ed didn't stay to eat.} \
+    {Ed ate.} NO NO 
+
+tqa {We started in to yell.} \
+    {We yelled.} YES YES 
+
+tqa {Ed tried to go.} \
+    {Ed went.} UNKNOWN UNKNOWN 
+
+tqa {Ed turned out to drink.} \
+    {Ed drank.} YES UNKNOWN 
+
+tqa {Ed warranted that Mary had a point.} \
+    {Mary had a point.} UNKNOWN UNKNOWN 
+
+tqa {John watched Mary leave.} \
+    {Mary left.} YES UNKNOWN 
+
+tqa {Ed wondered that Mary had arrived.} \
+    {Mary had arrived.} YES YES 
+
+tqa {Ed worked to complete the job.} \
+    {Ed completed the job.} UNKNOWN UNKNOWN 
+
+display-tqa-tally
+# Number correct:   50
+# Number incorrect: 5

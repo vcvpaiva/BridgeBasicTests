@@ -1,0 +1,151 @@
+init-tqa
+tqa {Bill is tall and fat.} \
+    {Is Bill fat?} YES YES 
+
+tqa {Bill is tall and fat.} \
+    {Is Bill fat?} YES YES 
+
+tqa {Bill sang and danced and played a tune.} \
+    {Did Bill sing?} YES YES 
+
+tqa {Bill sang and danced and played a tune.} \
+    {Did Bill dance?} YES YES 
+
+tqa {Bill sang and danced and played a tune.} \
+    {Did Bill play a tune?} YES YES 
+
+tqa {Bill sang and danced.} \
+    {Did Bill sing?} YES YES 
+
+tqa {Bill sang and danced.} \
+    {Did Bill dance?} YES YES 
+
+tqa {Bill sang but didn't dance.} \
+    {Did Bill sing?} YES YES 
+
+tqa {Bill sang but didn't dance.} \
+    {Did Bill dance?} NO NO 
+
+tqa {Bill sang, danced, and played a tune.} \
+    {Did Bill sing?} YES YES 
+
+tqa {Bill, John and Mary sang a song.} \
+    {Did Bill sing a song?} YES YES 
+
+tqa {Bob likes apples as well as bananas.} \
+    {Does Bob like apples?} YES YES 
+
+tqa {Bob likes apples as well as bananas.} \
+    {Does Bob like bananas?} YES YES 
+
+tqa {Either John or Mary left.} \
+    {Did Mary leave?} UNKNOWN UNKNOWN 
+
+tqa {Either John or Mary left.} \
+    {Did John or Mary leave?} YES YES 
+
+tqa {John is tall but Mary is not fat.} \
+    {Is John tall?} YES YES 
+
+tqa {John is tall but Mary is not fat.} \
+    {Is Mary fat?} NO NO 
+
+tqa {Jane likes apples but Mary likes pears.} \
+    {Does Jane like apples?} YES YES 
+
+tqa {Jane saw neither John nor Mary.} \
+    {Did Jane see Mary?} NO NO 
+
+tqa {Jane saw neither John nor Mary.} \
+    {Did Jane see John?} NO NO 
+
+tqa {John and Mary did not leave together.} \
+    {Did John leave?} UNKNOWN UNKNOWN 
+
+tqa {John and Mary did not leave.} \
+    {Did John leave?} NO NO 
+
+tqa {John and Mary did not leave.} \
+    {Did Mary leave?} NO NO 
+
+tqa {John did not sing; Mary did not dance.} \
+    {Did John sing?} NO NO 
+
+tqa {John did not sing; Mary did not dance.} \
+    {Did Mary dance?} NO NO 
+
+tqa {John left but Mary arrived.} \
+    {Did Mary arrive?} YES YES 
+
+tqa {John left but Mary arrived.} \
+    {Did John leave?} YES YES 
+
+tqa {Neither John nor Mary left.} \
+    {Did John leave?} NO NO 
+
+tqa {Neither John nor Mary left.} \
+    {Did Mary leave?} NO NO 
+
+tqa {John or Mary left.} \
+    {Did Mary leave?} UNKNOWN UNKNOWN 
+
+tqa {John sang; Mary danced.} \
+    {Did John sing?} YES YES 
+
+tqa {John sang; Mary danced.} \
+    {Did Mary dance?} YES YES 
+
+tqa {John sang; Mary did not talk.} \
+    {Did Mary talk?} NO NO 
+
+tqa {Mary eats fruit because it is good for her.} \
+    {Does Mary eat fruit?} YES YES 
+
+tqa {Mary eats fruit because it is good for her.} \
+    {Is fruit good for Mary?} YES YES 
+
+tqa {Mary loves chocolate, although she is allergic to it.} \
+    {Does Mary love chocolate?} YES YES 
+
+tqa {Mary loves chocolate, although she is allergic to it.} \
+    {Is Mary allergic to chocolate?} YES YES 
+
+tqa {Neither John nor Mary arrived on time.} \
+    {Did Mary arrive on time?} NO NO 
+
+tqa {Neither John nor Mary arrived on time.} \
+    {Did John arrive on time?} NO NO 
+
+tqa {Neither John nor Mary nor Paul left.} \
+    {Did John leave?} NO NO 
+
+tqa {Neither John nor Mary nor Paul left.} \
+    {Did Paul leave?} NO NO 
+
+tqa {Neither John nor Mary nor Paul left.} \
+    {Did Mary leave?} NO NO 
+
+tqa {Paul doesn't like broccoli but he will eat it.} \
+    {Does Paul like broccoli?} NO NO 
+
+tqa {Paul doesn't like broccoli, but he  eats it.} \
+    {Does Paul eat broccoli?} YES YES 
+
+tqa {Although Mary hopped, John skipped.} \
+    {Mary hopped.} YES YES 
+
+tqa {Although Mary hopped, John skipped.} \
+    {John skipped.} YES YES 
+
+tqa {Although Mary hopped, John didn't skip.} \
+    {Mary hopped.} YES YES 
+
+tqa {Although Mary didn't hop, John skipped.} \
+    {Mary hopped.} NO UNKNOWN 
+
+tqa {Although Mary hopped, John didn't skip.} \
+    {John didn't skip.} YES UNKNOWN 
+
+display-tqa-tally
+# Number correct:   47
+# Number incorrect: 2

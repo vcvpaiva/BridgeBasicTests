@@ -1,0 +1,52 @@
+init-tqa
+tqa {Eric, the handsome boy, appeared.} \
+    {Eric appeared.} YES YES 
+
+tqa {Eric, the handsome boy, appeared.} \
+    {Did Eric appear?} YES YES 
+
+tqa {Eric, the handsome boy, appeared.} \
+    {Eric is a handsome boy.} YES YES 
+
+tqa {Eric, the handsome boy, appeared.} \
+    {Is Eric  a handsome boy?} YES YES 
+
+tqa {Eric, the handsome boy,  didn't appear.} \
+    {Eric is a handsome boy.} YES YES 
+
+tqa {Eric, the handsome boy,  didn't appear.} \
+    {Is Eric  a handsome boy?} YES YES 
+
+tqa {Eric, the handsome boy,  didn't appear.} \
+    {Did Eric  appear?} NO NO 
+
+tqa {Eric, the handsome boy,  didn't appear.} \
+    {Eric didn't appear.} YES YES 
+
+tqa {Eric, the handsome boy,  didn't appear.} \
+    {Did Eric appear?} NO NO 
+
+tqa {Eric, the handsome boy,  didn't appear.} \
+    {Did the handsome boy appear?} NO NO 
+
+tqa {Eric, the handsome boy,  grew up to be a biologist.} \
+    {Did Eric grow up to be a biologist?} YES YES 
+
+tqa {Eric, the handsome boy,  grew up to be a biologist.} \
+    {Did a handsome boy grow up to be a biologist?} YES YES 
+
+tqa {Eric, leader of the New Zealand National Party, said that the White Crusaders are fascists.} \
+    {Eric is the leader of the New Zealand National Party.} YES YES {doesn't work without the commas}
+
+tqa {Rolf Ekeus, the Swedish diplomat who chairs the commission, said that Baghdad has been cooperative in helping his panel.} \
+    {Rolf Ekeus is a Swedish diplomat.} YES YES {doesn't work    without commas}
+
+tqa {Eric and Anna, the lovely children, appeared.} \
+    {Did Eric and Anna appear?} YES YES 
+
+tqa {Milan magistrate Antonio di Pietro  began to focus on Italy's business sectors.} \
+    {Antonio di Pietro is a magistrate.} YES YES 
+
+display-tqa-tally
+# Number correct:   16
+# Number incorrect: 0

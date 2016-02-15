@@ -1,0 +1,439 @@
+init-tqa
+tqa {Although Mary likes vegetables she eats them raw.} \
+    {Does Mary like vegetables?} YES YES 
+
+tqa {Although Mary likes vegetables she eats them raw.} \
+    {Does Mary eat vegetables?} YES YES 
+
+tqa {Although Mary likes vegetables she  doesn't eat them.} \
+    {Does Mary like vegetables?} YES YES 
+
+tqa {Although he lives in London, John hates it.} \
+    {Does John hate London?} YES YES 
+
+tqa {The monkey took the banana and ate it.} \
+    {The monkey ate the banana.} YES YES 
+
+tqa {Mary eats fruit because it is good for her.} \
+    {Fruit is good for Mary.} YES YES 
+
+tqa {Black holes do exist, but scientists had to look hard to find them.} \
+    {Black holes exist.} YES YES 
+
+tqa {Black holes do exist, but scientists had to look hard to find them.} \
+    {Scientists had to look hard to find black holes.} YES YES 
+
+tqa {Paul doesn't like broccoli, but he will eat it.} \
+    {Does Paul like broccoli?} NO NO 
+
+tqa {Paul doesn't like broccoli, but he eats it.} \
+    {Does Paul eat broccoli?} YES YES 
+
+tqa {Eric, the handsome boy, appeared.} \
+    {Eric appeared.} YES YES 
+
+tqa {Eric, the handsome boy, appeared.} \
+    {Did Eric appear?} YES YES 
+
+tqa {Eric, the handsome boy, appeared.} \
+    {Eric is a handsome boy.} YES YES 
+
+tqa {Eric, the handsome boy, appeared.} \
+    {Is Eric  a handsome boy?} YES YES 
+
+tqa {Eric, the handsome boy,  didn't appear.} \
+    {Eric is a handsome boy.} YES YES 
+
+tqa {Eric, the handsome boy,  didn't appear.} \
+    {Did Eric  appear?} NO NO 
+
+tqa {Eric, the handsome boy,  didn't appear.} \
+    {Did the handsome boy appear?} NO NO 
+
+tqa {Eric, the handsome boy,  grew up to be a biologist.} \
+    {Did a handsome boy grow up to be a biologist?} YES YES 
+
+tqa {Novelist Isabel Allende arrived.} \
+    {Isabel Allende is a novelist.} YES YES 
+
+tqa {Bill didn't see John or Mary.} \
+    {Did Bill see John?} NO NO 
+
+tqa {Bill didn't see John or Mary.} \
+    {Did Bill see Mary?} NO NO 
+
+tqa {Bill is tall and fat.} \
+    {Is Bill fat?} YES YES 
+
+tqa {Bill is tall and fat.} \
+    {Is Bill tall?} YES YES 
+
+tqa {Bill sang and danced and played a tune.} \
+    {Did Bill sing?} YES YES 
+
+tqa {Bill sang and danced and played a tune.} \
+    {Did Bill play a tune?} YES YES 
+
+tqa {Bill sang but didn't dance.} \
+    {Did Bill sing?} YES YES 
+
+tqa {Bill sang but didn't dance.} \
+    {Did Bill dance?} NO NO 
+
+tqa {Bill saw John and Mary.} \
+    {Did Bill see John and Mary?} YES YES 
+
+tqa {Bill saw John or Mary.} \
+    {Did Bill see John or Mary?} YES YES 
+
+tqa {Bob likes apples as well as bananas.} \
+    {Does Bob like apples?} YES YES 
+
+tqa {Bob likes apples as well as bananas.} \
+    {Does Bob like bananas?} YES YES 
+
+tqa {Cake, cookies and sandwiches will be served.} \
+    {Will food be served?} YES YES 
+
+tqa {Gumby is tall but not fat.} \
+    {Is Gumby tall?} YES YES 
+
+tqa {In addition to bananas, Bob likes apples.} \
+    {Does Bob like apples?} YES YES 
+
+tqa {Iran's population is suffering like Iraq's was.} \
+    {Is Iran's population suffering?} YES YES 
+
+tqa {Jane likes apples but Mary likes pears.} \
+    {Does Jane like apples?} YES YES 
+
+tqa {Jane saw neither John nor Mary.} \
+    {Did Jane see Mary?} NO NO 
+
+tqa {John did not sing; Mary did not dance.} \
+    {Did John sing?} NO NO 
+
+tqa {John did not sing; Mary did not dance.} \
+    {Did Mary dance?} NO NO 
+
+tqa {John eats either apples or oranges, I'm not sure which.} \
+    {Does John eat apples or oranges?} YES YES 
+
+tqa {Ed's abandonment of the child caused consternation.} \
+    {Ed abandoned a child.	} YES YES 
+
+tqa {Ed's abandonment caused consternation.} \
+    {Ed was abandoned.	} YES YES 
+
+tqa {The abandonment of the child by Ed caused consternation.} \
+    {Ed abandoned a child.	} YES YES 
+
+tqa {The abandonment of the city happened on Sunday.} \
+    {The city was abandoned.	} YES YES 
+
+tqa {Ed's abbreviation of the sermon was welcome.} \
+    {Ed abbreviated the sermon.	} YES YES 
+
+tqa {The abbreviation of the sermon  by Ed was welcome.} \
+    {Ed abbreviated the sermon.	} YES YES 
+
+tqa {The abbreviation of the sermon was welcome.} \
+    {The sermon was abbreviated.	} YES YES 
+
+tqa {Ed's  abdication  was welcome.} \
+    {Ed abdicated.	} YES YES 
+
+tqa {Ed is an abdicator.} \
+    {Ed abdicated.	} YES YES 
+
+tqa {Ed's advocacy for freedom was rewarded.} \
+    {Ed advocated freedom.	} YES YES 
+
+tqa {Ed's assessment of the essay was damaging.} \
+    {Ed assessed the essay.	} YES YES 
+
+tqa {Ed's assessment by the director was damaging.} \
+    {Ed  was assessed by the director.	} YES YES 
+
+tqa {Ed's creation of the company was successful.} \
+    {Ed created the company.	} YES YES 
+
+tqa {The creation of the company was successful.} \
+    {The company was created.	} YES YES 
+
+tqa {Ed's claims of priority were unfounded.} \
+    {Ed claimed priority.	} YES YES 
+
+tqa {The death of Ed came as a surprise.} \
+    {Ed died.	} YES YES 
+
+tqa {Ed's death came as a surprise.} \
+    {Ed died.	} YES YES 
+
+tqa {Ed's destruction of the city was tragic.} \
+    {Ed destroyed the city.} YES YES 
+
+tqa {The destruction of the city was tragic.} \
+    {The city was destroyed.	} YES YES 
+
+tqa {Mary's happily eating the cake annoyed Ed.} \
+    {Mary happily ate the cake.	} YES YES 
+
+tqa {Mary's  eating the cake annoyed Ed.} \
+    {Mary  ate the cake.	} YES YES 
+
+tqa {Mary's  eating of  the cake annoyed Ed.} \
+    {Mary  ate the cake.	} YES YES 
+
+tqa {Ed is an employee of the company.} \
+    {The company employs Ed.	} YES YES 
+
+tqa {An employee arrived.} \
+    {Was anyone employed?	} YES YES 
+
+tqa {Ed's employer arrived.} \
+    {Ed is employed.	} YES YES 
+
+tqa {Bill is Ed's employer.} \
+    {Bill employs Ed.	} YES YES 
+
+tqa {The company's employment of Ed is going well.} \
+    {The company employs Ed.	} YES YES 
+
+tqa {Ed's giving money to charity annoyed Mary.} \
+    {Ed gave money to charity.	} YES YES 
+
+tqa {Ed's protection for the birds is lovely.} \
+    {Ed protects the birds.	} YES YES 
+
+tqa {Ed's protection for  birds annoyed Mary.} \
+    {Ed protected  birds.	} YES YES 
+
+tqa {Ed is a reader of poetry.} \
+    {Ed reads poetry.	} YES YES 
+
+tqa {Ed is a fiction writer.} \
+    {Ed writes fiction.	} YES YES 
+
+tqa {Ed's writing improved.} \
+    {Ed writes.	} YES YES 
+
+tqa {A boy hopped.} \
+    {A boy didn't hop.} UNKNOWN UNKNOWN 
+
+tqa {Every boy hopped.} \
+    {The boy hopped.} YES YES 
+
+tqa {Every boy hopped.} \
+    {A boy hopped.} YES YES 
+
+tqa {The boy hopped.} \
+    {Every boy hopped.} UNKNOWN UNKNOWN 
+
+tqa {A boy hopped.} \
+    {Every boy hopped.} UNKNOWN UNKNOWN 
+
+tqa {Every boy hopped.} \
+    {Some boys hopped.} YES YES 
+
+tqa {Every  boy hopped.} \
+    {Every tall  boy hopped.} YES YES 
+
+tqa {Every tall boy hopped.} \
+    {A tall boy hopped.} YES YES 
+
+tqa {Every tall boy in the park hopped.} \
+    {Some tall boys in the park hopped.} YES YES 
+
+tqa {Each tall boy hopped.} \
+    {Every boy hopped.} UNKNOWN UNKNOWN 
+
+tqa {A tall boy hopped in the park.} \
+    {A boy hopped in the park.} YES YES 
+
+tqa {All tall boys want to  hop in the park.} \
+    {Do all tall boys want to hop in the park?} YES YES 
+
+tqa {No tall boys  hopped in the park.} \
+    {Did any   boys hop in the park?} UNKNOWN UNKNOWN 
+
+tqa {All  boys hopped in the park.} \
+    {All boys, in the park, hopped.} YES YES 
+
+tqa {Some tall boys hopped in the park.} \
+    {Did any  boys hop in the park?} YES YES 
+
+tqa {No  boy hopped.} \
+    {Every boy hopped.} NO NO 
+
+tqa {No tall boys  hopped in the park.} \
+    {Did any tall boys hop in the park?} NO NO 
+
+tqa {A tall boy hopped.} \
+    {Was there a tall boy that hopped?} YES YES 
+
+tqa {All of the tractors are large.} \
+    {All of the tractors are large.} YES YES 
+
+tqa {Ed accepted that the policy failed.} \
+    {The policy failed.} YES YES 
+
+tqa {They acknowledged the report to be correct.} \
+    {The report was correct.} YES YES 
+
+tqa {Ed acknowledged that Mary knew the facts.} \
+    {Mary knew the facts.} YES UNKNOWN 
+
+tqa {Ed admitted that Mary arrived.} \
+    {Mary arrived.} YES YES 
+
+tqa {The report was admitted to be incorrect.} \
+    {The report was incorrect.} YES YES 
+
+tqa {Ed apprehended that Mary arrived.} \
+    {Mary arrived.} YES YES 
+
+tqa {Ed didn't attempt to go.} \
+    {Ed went.} NO NO 
+
+tqa {Ed didn't bother to cry.} \
+    {Ed didn't cry.} YES YES 
+
+tqa {Ed broke off the negotiations.} \
+    {There were no negotiations.} NO NO 
+
+tqa {Ed didn't care that Mary went.} \
+    {Mary went.} YES YES 
+
+tqa {Ed caused Mary to cry.} \
+    {Mary cried.} YES YES 
+
+tqa {It ceased to rain.} \
+    {It rained.} YES YES 
+
+tqa {Ed came to know about the story.} \
+    {Ed knew about the story.} YES UNKNOWN 
+
+tqa {Ed didn't compete to solve the problem.} \
+    {Ed solved the problem.} NO NO 
+
+tqa {Ed comprehended that Bill left.} \
+    {Bill left.} YES YES 
+
+tqa {They condescended to go.} \
+    {They went.} YES YES 
+
+tqa {It continued to rain.} \
+    {It rained.} YES YES 
+
+tqa {Ed dared to speak.} \
+    {Ed spoke.} YES YES 
+
+tqa {Ed discovered that Mary was sleeping.} \
+    {Mary was sleeping.} YES YES 
+
+tqa {John didn't explain that Bill didn't arrive.} \
+    {Bill didn't arrive.} YES YES 
+
+tqa {Ed failed to open the door.} \
+    {Ed  opened the door.} NO NO 
+
+tqa {Ed found that Mary had arrived.} \
+    {Mary arrived.} YES YES 
+
+tqa {Ed forgot that Mary went.} \
+    {Mary went.} YES YES 
+
+tqa {Ed forgot to go to the doctor.} \
+    {Ed went to the doctor.} NO NO 
+
+tqa {Ed got it to rain sparks.} \
+    {It rained sparks.} YES YES 
+
+tqa {Ed got to write to the doctor.} \
+    {Ed wrote to the doctor.} YES YES 
+
+tqa {Ed didn't guess that Mary had arrived.} \
+    {Mary arrived.} YES YES 
+
+tqa {Ed hastened to go.} \
+    {Ed went.} YES YES 
+
+tqa {Ed hated to leave.} \
+    {Ed left.} YES YES 
+
+tqa {Ed didn't hesitate to go.} \
+    {Ed went.} YES YES 
+
+tqa {Ed identified that Mary had a problem.} \
+    {Mary had a problem.} YES YES 
+
+tqa {Ed knew that Mary arrived.} \
+    {Mary arrived.} YES YES 
+
+tqa {Ed knew to pay attention.} \
+    {Ed paid attention.} YES YES 
+
+tqa {John knew him to be an idiot.} \
+    {He was an idiot.} YES YES 
+
+tqa {Falling profits led the company to explore new paths.} \
+    {The company explored new paths.} YES YES 
+
+tqa {John made Mary leave.} \
+    {Mary left.} YES UNKNOWN 
+
+tqa {Ed managed to leave.} \
+    {Ed left.} YES YES 
+
+tqa {Ed didn't mean to go.} \
+    {Ed went.} YES YES 
+
+tqa {Ed minded that Mary went.} \
+    {Mary went.} YES YES 
+
+tqa {Ed neglected to call Mary.} \
+    {Ed called Mary.} NO NO 
+
+tqa {The Deputy observed there to be a red mark on her face.} \
+    {There was a red mark on her face.} YES YES 
+
+tqa {Ed pretended that Mary arrived.} \
+    {Mary arrived.} NO NO 
+
+tqa {Ed pretended to cry.} \
+    {Ed cried.} NO NO 
+
+tqa {Ed prevented the war.} \
+    {The war happened.} NO NO 
+
+tqa {Ed was provoked to go.} \
+    {Ed went.} YES YES 
+
+tqa {Ed realized that Mary arrived.} \
+    {Mary arrived.} YES YES 
+
+tqa {John recognized the idea to be foolish.} \
+    {The idea was foolish.} YES YES 
+
+tqa {Ed regretted that Mary went.} \
+    {Mary went.} YES YES 
+
+tqa {The fact is that John slept.} \
+    {John slept.} YES YES 
+
+tqa {The problem is that John didn't sleep.} \
+    {John slept.} NO NO 
+
+tqa {The truth is that John slept.} \
+    {John slept.} YES YES 
+
+tqa {It is  the  case that John didn't sleep.} \
+    {John slept.} NO NO 
+
+tqa {This is an acknowledgement that you were right.} \
+    {You were right.} YES YES 
+
+display-tqa-tally
+# Number correct:   142
+# Number incorrect: 3
