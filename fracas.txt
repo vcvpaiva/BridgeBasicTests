@@ -1,0 +1,1021 @@
+qinit-tqa
+tqa {An Italian became the world's greatest tenor.} \
+    {Was there an Italian who became the world's greatest tenor?} YES UNKNOWN 
+
+tqa {Every Italian man wants to be a great tenor. Some Italian men are great tenors.} \
+    {Are there Italian men who want to be a great tenor?} YES UNKNOWN 
+
+tqa {All Italian men want to be a great tenor. Some Italian men are great tenors.} \
+    {Are there Italian men who want to be a great tenor?} YES UNKNOWN 
+
+tqa {Each Italian tenor wants to be great. Some Italian tenors are great.} \
+    {Are there Italian tenors who want to be great?} YES UNKNOWN 
+
+tqa {The really ambitious tenors are Italian.} \
+    { Are there really ambitious tenors who are Italian?} YES UNKNOWN 
+
+tqa {No really great tenors are modest.} \
+    {Are there really great tenors who are modest?} NO UNKNOWN 
+
+tqa {Some great tenors are Swedish.} \
+    {Are there great tenors who are Swedish?} YES UNKNOWN 
+
+tqa {Many great tenors are German.} \
+    {Are there great tenors who are German? } YES UNKNOWN 
+
+tqa {Several great tenors are British.} \
+    {Are there great tenors who are British?} YES UNKNOWN 
+
+tqa {Most great tenors are Italian.} \
+    {Are there great tenors who are Italian?} YES UNKNOWN 
+
+tqa {A few great tenors sing popular music. Some great tenors like popular music.} \
+    {Are there great tenors who sing popular music?} YES UNKNOWN 
+
+tqa {Few great tenors are poor.} \
+    {Are there great tenors who are poor?} UNKNOWN UNKNOWN 
+
+tqa {Both leading tenors are excellent. Leading tenors who are excellent are indispensable.} \
+    {Are both leading tenors indispensable?} YES UNKNOWN 
+
+tqa {Neither leading tenor comes cheap. One of the leading tenors is Pavarotti.} \
+    {Is Pavarotti a leading tenor who comes cheap?} NO UNKNOWN 
+
+tqa {At least three tenors will take part in the concert.} \
+    {Are there tenors who will take part in the concert?} YES UNKNOWN 
+
+tqa {At most two tenors will contribute their fees to charity.} \
+    {Are there tenors who will contribute their fees to charity?} UNKNOWN UNKNOWN 
+
+tqa {An Irishman won the Nobel prize for literature.} \
+    {Did an Irishman win a Nobel prize?} YES UNKNOWN 
+
+tqa {Every European has the right to live in Europe. Every European is a person.Every person who has the right to live in Europe can travel freely within Europe.} \
+    {Can every European travel freely within Europe?} YES UNKNOWN 
+
+tqa {All Europeans have the right to live in Europe. Every European is a person. Every person who has the right to live in Europe can travel freely within Europe.} \
+    {Can all Europeans travel freely within Europe?} YES UNKNOWN 
+
+tqa {Each European has the right to live in Europe. Every European is a person. Every person who has the right to live in Europe can travel freely within Europe.} \
+    {Can each European travel freely within Europe?} YES UNKNOWN 
+
+tqa {The residents of member states have the right to live in    Europe. All residents of member states are individuals. Every individual who has the right to live in Europe can travel freely within Europe.} \
+    {Can the residents of member states travel freely within Europe?} YES UNKNOWN 
+
+tqa {No delegate finished the report on time.} \
+    {Did no delegate finish the report?} UNKNOWN UNKNOWN 
+
+tqa {Some delegates finished the survey on time.} \
+    {Did some delegates finish the survey?} YES UNKNOWN 
+
+tqa {Many delegates obtained interesting results from the survey.} \
+    {Did many delegates obtain results from the survey?} YES UNKNOWN 
+
+tqa {Several delegates got the results published in major national newspapers.} \
+    {Did several delegates get the results published?} YES UNKNOWN 
+
+tqa {Most Europeans are resident in Europe. All Europeans are people. All people who are resident in Europe can travel freely withinEurope.} \
+    {Can most Europeans travel freely within Europe?} YES UNKNOWN 
+
+tqa {A few committee members are from Sweden. All committee members    are people. All people who are from Sweden are from Scandinavia.} \
+    {Are at least a few committee members from Scandinavia?} YES UNKNOWN 
+
+tqa {Few committee members are from Portugal. All committee members are people. All people who are from Portugal are from southern Europe.} \
+    {Are there few committee members from southern Europe?} UNKNOWN UNKNOWN 
+
+tqa {Both commissioners used to be leading businessmen.} \
+    {Did both commissioners used to be businessmen?} YES UNKNOWN 
+
+tqa {Neither commissioner spends a lot of time at home.} \
+    {Does neither commissioner spend time at home?} UNKNOWN UNKNOWN 
+
+tqa {At least three commissioners spend a lot of time at home.} \
+    {Do at least three commissioners spend time at home?} YES UNKNOWN 
+
+tqa {At most ten commissioners spend a lot of time at home.} \
+    {Do at most ten commissioners spend time at home?} UNKNOWN UNKNOWN 
+
+tqa {An Irishman won a Nobel prize.} \
+    {Did an Irishman win the Nobel prize for literature?} UNKNOWN UNKNOWN 
+
+tqa {Every European can travel freely within Europe. Every European is a person.Every person who has the right to live in Europe can travel freely within Europe.} \
+    {Does every European have the right to live in Europe?} UNKNOWN UNKNOWN 
+
+tqa {All Europeans can travel freely within Europe. Every European is a person. Every person who has the right to live in Europe can travel freely within Europe.} \
+    {Do all Europeans have the right to live in Europe?} UNKNOWN UNKNOWN 
+
+tqa {Each European can travel freely within Europe. Every European is a person. Every person who has the right to live in Europe can travel freely within Europe.} \
+    {Does each European have the right to live in Europe?} UNKNOWN UNKNOWN 
+
+tqa {The residents of member states can travel freely within    Europe. All residents of member states are individuals. Every individual who has the right to live anywhere in Europe can travel freely within Europe.} \
+    {Do the residents of member states have the right to live anywhere in Europe?} UNKNOWN UNKNOWN 
+
+tqa {No delegate finished the report.} \
+    {Did any delegate finish the report on time?} NO UNKNOWN 
+
+tqa {Some delegates finished the survey.} \
+    {Did some delegates finish the survey on time?} UNKNOWN UNKNOWN 
+
+tqa {Many delegates obtained results from the survey.} \
+    {Did many delegates obtain interesting results from the survey?} UNKNOWN UNKNOWN 
+
+tqa {Several delegates got the results published.} \
+    {Did several delegates get the results published in major national newspapers?} UNKNOWN UNKNOWN 
+
+tqa {Most Europeans can travel freely within Europe. All Europeans are people. All people who are resident in Europe can travel freely within Europe.} \
+    {Are most Europeans resident in Europe?} UNKNOWN UNKNOWN 
+
+tqa {A few committee members are from Scandinavia. All committee    members are people. All people who are from Sweden are from Scandinavia.} \
+    {Are at least a few committee members from Sweden?} UNKNOWN UNKNOWN 
+
+tqa {Few committee members are from southern Europe. All committee    members are people. All people who are from Portugal are from southern Europe.} \
+    {Are there few committee members from Portugal?} YES UNKNOWN 
+
+tqa {Both commissioners used to be businessmen.} \
+    {Did both commissioners used to be leading businessmen?} UNKNOWN UNKNOWN 
+
+tqa {Neither commissioner spends time at home.} \
+    {Does either commissioner spend a lot of time at home?} NO UNKNOWN 
+
+tqa {At least three commissioners spend time at home. } \
+    {Do at least three commissioners spend a lot of time at home?} UNKNOWN UNKNOWN 
+
+tqa {At most ten commissioners spend time at home.} \
+    {Do at most ten commissioners spend a lot of time at home?} YES UNKNOWN 
+
+tqa {A Swede won a Nobel prize. Every Swede is a Scandinavian.} \
+    {Did a Scandinavian win a Nobel prize?} YES UNKNOWN 
+
+tqa {Every Canadian resident can travel freely within Europe. Every Canadian resident is a resident of the North American continent.} \
+    {Can every resident of the North American continent travel freely within Europe?} UNKNOWN UNKNOWN 
+
+tqa {All Canadian residents can travel freely within Europe. Every Canadian resident is a resident of the North American continent.} \
+    {Can all residents of the North American continent travel freely within Europe?} UNKNOWN UNKNOWN 
+
+tqa {Each Canadian resident can travel freely within Europe. Every Canadian resident is a resident of the North American continent.} \
+    {Can each resident of the North American continent travel freely within Europe?} UNKNOWN UNKNOWN 
+
+tqa {The residents of major western countries can travel freely within    Europe. All residents of major western countries are residents of western countries.} \
+    {Do the residents of western countries have the right to live in Europe?} UNKNOWN UNKNOWN 
+
+tqa {No Scandinavian delegate finished the report on time.} \
+    {Did any delegate finish the report on time?} UNKNOWN UNKNOWN 
+
+tqa {Some Irish delegates finished the survey on time.} \
+    {Did any delegates finish the survey on time?} YES UNKNOWN 
+
+tqa {Many British delegates obtained interesting results from the survey.} \
+    {Did many delegates obtain interesting results from the survey?} UNKNOWN UNKNOWN 
+
+tqa {Several Portuguese delegates got the results published in major national newspapers.} \
+    {Did several delegates get the results publishedin major national newspapers?} YES UNKNOWN 
+
+tqa {Most Europeans who are resident in Europe can travel freely within Europe.} \
+    {Can most Europeans travel freely within Europe?} UNKNOWN UNKNOWN 
+
+tqa {A few female committee members are from Scandinavia.} \
+    {Are at least a few committee members from Scandinavia?} YES UNKNOWN 
+
+tqa {Few female committee members are from southern Europe.} \
+    {Are few committee members from southern Europe?} UNKNOWN UNKNOWN 
+
+tqa {Both female commissioners used to be in business.} \
+    {Did both commissioners use to be in business?} UNKNOWN UNKNOWN 
+
+tqa {Neither female commissioner spends a lot of time at home.} \
+    {Does either commissioner spend a lot of time at home?} UNKNOWN UNKNOWN 
+
+tqa {A least three female commissioners spend time at home.} \
+    {Do at least three commissioners spend time at home?} UNKNOWN UNKNOWN 
+
+tqa {At most ten female commissioners spend time at home.} \
+    {Do at most ten commissioners spend time at home?} UNKNOWN UNKNOWN 
+
+tqa {A Scandinavian won a Nobel prize. Every Swede is a Scandinavian.} \
+    {Did a Swede win a Nobel prize?} UNKNOWN UNKNOWN 
+
+tqa {Every resident of the North American continent can travel freely    within Europe. Every Canadian resident is a resident of the North American continent.} \
+    {Can every Canadian resident travel freely within Europe?} YES UNKNOWN 
+
+tqa {All residents of the North American continent can travel freely    within Europe. Every Canadian resident is a resident of the North American continent.} \
+    {Can all Canadian residents travel freely within Europe?} YES UNKNOWN 
+
+tqa {Each resident of the North American continent can travel freely    within Europe. Every Canadian resident is a resident of the North American continent.} \
+    {Can each Canadian resident travel freely within Europe?} YES UNKNOWN 
+
+tqa {The residents of western countries can travel freely within Europe. All residents of major western countries are residents of western countries.} \
+    {Do the residents of major western countries have the right to live in Europe?} YES UNKNOWN 
+
+tqa {No delegate finished the report on time.} \
+    {Did any Scandinavian delegate finish the report on time?} NO UNKNOWN 
+
+tqa {Several delegates got the results published in major national newspapers.} \
+    {Did several Portuguese delegates get the results published in major national newspapers?} UNKNOWN UNKNOWN 
+
+tqa {Most Europeans can travel freely within Europe.} \
+    {Can most Europeans who are resident outside Europe travel freely within Europe?} UNKNOWN UNKNOWN 
+
+tqa {A few committee members are from Scandinavia.} \
+    {Are at least a few female committee members from Scandinavia?} UNKNOWN UNKNOWN 
+
+tqa {Few committee members are from southern Europe.} \
+    {Are few female committee members from southern Europe?} YES UNKNOWN 
+
+tqa {Both commissioners used to be in business.} \
+    {Did both female commissioners use to be in business?} UNKNOWN UNKNOWN 
+
+tqa {Neither commissioner spends a lot of time at home.} \
+    {Does either female commissioner spend a lot of time at home?} NO UNKNOWN 
+
+tqa {At least three commissioners spend time at home.} \
+    {Do at least three male commissioners spend time at home?} UNKNOWN UNKNOWN 
+
+tqa {At most ten commissioners spend time at home.} \
+    {Do at most ten female commissioners spend time at home?} YES UNKNOWN 
+
+tqa {Smith, Jones and Anderson signed the contract.} \
+    {Did Jones sign the contract?} YES UNKNOWN 
+
+tqa {Smith, Jones and several lawyers signed the contract.} \
+    {Did Jones sign the contract?} YES UNKNOWN 
+
+tqa {Either Smith, Jones or Anderson signed the contract.} \
+    {Did Jones sign the contract?} UNKNOWN UNKNOWN 
+
+tqa {Either Smith, Jones or Anderson signed the contract.} \
+    {If Smith and Anderson did not sign the contract, did Jones sign the contract?} YES UNKNOWN 
+
+tqa {Exactly two lawyers and three accountants signed the contract.} \
+    {Did six lawyers sign the contract?} NO NO 
+
+tqa {Exactly two lawyers and three accountants signed the contract.} \
+    {Did six accountants sign the contract?} NO NO 
+
+tqa {Every representative and client was at the meeting.} \
+    {Was every representative at the meeting?} YES UNKNOWN 
+
+tqa {Every representative and client was at the meeting.} \
+    {Was every representative at the meeting?} UNKNOWN UNKNOWN 
+
+tqa {Every representative or client was at the meeting.} \
+    {Was every representative and every client at the meeting?} YES UNKNOWN 
+
+tqa {The chairman read out the items on the agenda.} \
+    {Did the chairman read out every item on the agenda?} YES UNKNOWN 
+
+tqa {The people who were at the meeting voted for a new chairman.} \
+    {Did everyone at the meeting vote for a new chairman?} UNKNOWN UNKNOWN 
+
+tqa {All the people who were at the meeting voted for a new chairman.} \
+    {Did everyone at the meeting vote for a new chairman?} YES UNKNOWN 
+
+tqa {The people who were at the meeting all voted for a new chairman.} \
+    {Did everyone at the meeting vote for a new chairman?} YES UNKNOWN 
+
+tqa {The inhabitants of Cambridge voted for a Labour MP.} \
+    {Did every inhabitant of Cambridge vote for a Labour MP?} UNKNOWN UNKNOWN 
+
+tqa {The Ancient Greeks were noted philosophers.} \
+    {Was every Ancient Greek a noted philosopher?} UNKNOWN UNKNOWN 
+
+tqa {The Ancient Greeks were all noted philosophers.} \
+    {Was every Ancient Greek a noted philosopher?} YES UNKNOWN 
+
+tqa {Software faults were blamed for the system failure.} \
+    {Was the system failure blamed on one or more software faults?} YES UNKNOWN 
+
+tqa {Software faults were blamed for the system failure. Bug   32-985 is a known software fault.} \
+    {Was bug   32-985 blamed for the system failure?} UNKNOWN UNKNOWN 
+
+tqa {Clients at the demonstration were all impressed by the system's performance. Smith was a client at the demonstration.} \
+    {Was Smith impressed by the system's performance?} YES UNKNOWN 
+
+tqa {Clients at the demonstration were all impressed by the system's performance.} \
+    {Were most clients at the demonstration impressed by the system's performance?} YES UNKNOWN 
+
+tqa {University graduates make poor stock-market traders. Smith is a university graduate.} \
+    {Is Smith likely to make a poor stock market trader?} YES UNKNOWN 
+
+tqa {University graduates make poor stock-market traders. Smith is a university graduate.} \
+    {Will Smith make a poor stock market trader?} UNKNOWN UNKNOWN 
+
+tqa {All APCOM managers have company cars. Jones is an APCOM manager.} \
+    {Does Jones have a company car?} YES UNKNOWN 
+
+tqa {All APCOM managers have company cars. Jones is an APCOM manager.} \
+    {Does Jones have more than one company car?} UNKNOWN UNKNOWN 
+
+tqa {Just one accountant attended the meeting.} \
+    {Did no accountants attend the meeting?} NO UNKNOWN 
+
+tqa {Just one accountant attended the meeting.} \
+    {Did no accountant attend the meeting?} NO UNKNOWN 
+
+tqa {Just one accountant attended the meeting.} \
+    {Did any accountants attend the meeting?} YES UNKNOWN 
+
+tqa {Just one accountant attended the meeting.} \
+    {Did any accountant attend the meeting?} YES UNKNOWN 
+
+tqa {Just one accountant attended the meeting.} \
+    {Did some accountants attend the meeting?} NO UNKNOWN 
+
+tqa {Just one accountant attended the meeting.} \
+    {Did some accountant attend the meeting?} YES UNKNOWN 
+
+tqa {Smith signed one contract. Jones signed another contract.} \
+    {Did Smith and Jones sign two contracts?} YES UNKNOWN 
+
+tqa {Smith signed two contracts. Jones signed two contracts.} \
+    {Did Smith and Jones sign two contracts?} YES UNKNOWN 
+
+tqa {Smith signed two contracts. Jones also signed them.} \
+    {Did Smith and Jones sign two contracts?} YES UNKNOWN 
+
+tqa {Mary used her workstation.} \
+    {Was Mary's workstation used?} YES UNKNOWN 
+
+tqa {Mary used her workstation.} \
+    {Does Mary have a workstation?} YES UNKNOWN 
+
+tqa {Mary used her workstation.} \
+    {Is Mary female?} YES UNKNOWN 
+
+tqa {Every student used her workstation. Mary is a student.} \
+    { Did Mary use her workstation?} YES UNKNOWN 
+
+tqa {Every student used her workstation. Mary is a student.} \
+    {Does Mary have a workstation?} YES UNKNOWN 
+
+tqa {No student used her workstation. Mary is a student.} \
+    {Did Mary use a workstation?} NO UNKNOWN 
+
+tqa {Smith attended a meeting. She chaired it.} \
+    {Did Smith chair a meeting?} YES UNKNOWN 
+
+tqa {Smith delivered a report to ITEL. She also delivered them an    invoice. And she delivered them a project proposal.} \
+    {Did Smith deliver a report, an invoice and a project proposal to ITEL?} YES UNKNOWN 
+
+tqa {Every committee has a chairman. He is appointed by its members.} \
+    {Does every committee have a chairman appointed by members of the committee? } YES UNKNOWN 
+
+tqa {ITEL has sent most of the reports Smith needs. They are on her desk.} \
+    {Are there some reports from ITEL on Smith's desk?} YES UNKNOWN 
+
+tqa {Two out of ten machines are missing. They have been removed.} \
+    {Have two machines been removed? } YES NO 
+
+tqa {Two out of ten machines are missing. They have been removed.} \
+    {Have eight machines been removed? } UNKNOWN NO 
+
+tqa {Two out of ten machines are missing. They were all here yesterday.} \
+    {Were ten machines here yesterday?} YES UNKNOWN 
+
+tqa {Smith took a machine on Tuesday, and Jones took a machine on Wednesday. They put them in the lobby.} \
+    {Did Smith and Jones put two machines in the lobby?} YES UNKNOWN 
+
+tqa {John and his colleagues went to a meeting. They hated it.} \
+    {Did John's colleagues hate the meeting? } YES UNKNOWN 
+
+tqa {John and his colleagues went to a meeting. They hated it.} \
+    {Did John hate the meeting?} YES UNKNOWN 
+
+tqa {John and his colleagues went to a meeting. They hated it.} \
+    {Did John hate the meeting? } UNKNOWN UNKNOWN 
+
+tqa {Each department has a dedicated line. They rent them from BT.} \
+    {Does every department rent a line from BT?} YES UNKNOWN 
+
+tqa {Each department has a dedicated line. The sales department rents it from BT.} \
+    {Does the sales department rent a line from BT? } YES UNKNOWN 
+
+tqa {GFI owns several computers.ITEL maintains them.} \
+    {Does ITEL maintain all the computers that GFI owns?} YES UNKNOWN 
+
+tqa {Every customer who owns a computer has a service contract for it. MFI is a customer that owns exactly one computer.} \
+    {Does MFI have a service contract for all its computers? } YES UNKNOWN 
+
+tqa {Every customer who owns a computer has a service contract for it.} {MFI is a customer that owns several computers.} \
+    {Does MFI have aservice contract for all its computers? } YES UNKNOWN 
+
+tqa {Every executive who had a laptop computer brought it to take notes at the meeting. Smith is a executive who owns five different laptop computers.} \
+    {Did Smith take five laptop computers to the meeting?} UNKNOWN UNKNOWN 
+
+tqa {There are 100 companies. ICM is one of the companies and owns 150    computers. It does not have service contracts for any of its    computers. Each of the other 99 companies owns one computer. They have service contracts for them.} \
+    {Do most companies that own a computer have a service contract for it?} YES UNKNOWN 
+
+tqa {Every report has a cover page. R-95-103 is a report.Smith signed the cover page.} \
+    {Did Smith sign the cover page of R-95-103?} YES UNKNOWN 
+
+tqa {A company director awarded himself a large payrise.} \
+    {Has a company director awarded and been awarded a payrise?} YES UNKNOWN 
+
+tqa {John said Bill had hurt himself.} \
+    {Did John say Bill had been hurt?} YES UNKNOWN 
+
+tqa {John said Bill had hurt himself.} \
+    {Did anyone say John had been hurt?} UNKNOWN UNKNOWN 
+
+tqa {John spoke to Mary. So did Bill.} \
+    {Did Bill speak to Mary?} YES UNKNOWN 
+
+tqa {John spoke to Mary. So did Bill. John spoke to Mary at four o'clock.} \
+    {Did Bill speak to Mary at four o'clock?} UNKNOWN UNKNOWN 
+
+tqa {John spoke to Mary at four o'clock. So did Bill.} \
+    {Did Bill speak to Mary at four o'clock?} YES UNKNOWN 
+
+tqa {John spoke to Mary at four o'clock. And Bill did at five o'clock.} \
+    {Did Bill speak to Mary at five o'clock?} YES UNKNOWN 
+
+tqa {John has spoken to Mary. Bill is going to.} \
+    {Will Bill speak to Mary?} YES UNKNOWN 
+
+tqa {John spoke to Mary on Monday. Bill didn't.} \
+    {Did Bill speak to Mary on Monday?} NO UNKNOWN 
+
+tqa {Has John spoken to Mary? Bill has.} \
+    {Has Bill spoken to Mary?} YES UNKNOWN 
+
+tqa {John has spoken to Mary. The students have too.} \
+    {Have the students spoken to Mary?} YES UNKNOWN 
+
+tqa {John went to Paris by car, and Bill by train.} \
+    {Did Bill go to Paris by train?} YES UNKNOWN 
+
+tqa {John went to Paris by car, and Bill by train to Berlin.} \
+    {Did Bill go to Berlin by train?} YES UNKNOWN 
+
+tqa {John went to Paris by car, and Bill to Berlin.} \
+    {Did Bill go to Berlin by car?} YES UNKNOWN 
+
+tqa {John is going to Paris by car, and the students by train.} \
+    {Are the students going to Paris by train?} YES UNKNOWN 
+
+tqa {John went to Paris by car. Bill by train.} \
+    {Did Bill go to Paris by train?} YES UNKNOWN 
+
+tqa {John owns a car. Bill owns one too.} \
+    {Does Bill own a car?} YES UNKNOWN 
+
+tqa {John owns a car.Bill owns one too.} \
+    {Is there a car that John and Bill own?} UNKNOWN UNKNOWN 
+
+tqa {John owns a red car. Bill owns a blue one.} \
+    {Does Bill own a blue car?} YES UNKNOWN 
+
+tqa {John owns a red car. Bill owns a blue one.} \
+    {Does Bill own a red car?} UNKNOWN UNKNOWN 
+
+tqa {John owns a red car. Bill owns a fast one.} \
+    {Does Bill own a fast car?} YES UNKNOWN 
+
+tqa {John owns a red car. Bill owns a fast one.} \
+    {Does Bill own a fast red car?} YES UNKNOWN 
+
+tqa {John owns a red car. Bill owns a fast one.} \
+    {Does Bill own a fast red car?} UNKNOWN UNKNOWN 
+
+tqa {John owns a fast red car. Bill owns a slow one.} \
+    {Does Bill own a slow red car?} YES UNKNOWN 
+
+tqa {John had his paper accepted. Bill doesn't know why.} \
+    {Does Bill know why John had his paper accepted?} NO UNKNOWN 
+
+tqa {John spoke to Mary. And to Sue.} \
+    {Did John speak to Sue?} YES UNKNOWN 
+
+tqa {John spoke to Mary. On Friday.} \
+    {Did John speak to Mary on Friday?} YES UNKNOWN 
+
+tqa {John spoke to Mary on Thursday. And on Friday.} \
+    {Did John speak to Mary on Friday?} YES UNKNOWN 
+
+tqa {Twenty men work in the Sales Department. But only one woman.} \
+    {Do two women work in the Sales Department?} NO NO 
+
+tqa {Five men work part time. And forty five women.} \
+    {Do forty five women work part time?} YES UNKNOWN 
+
+tqa {John found Mary before Bill.} \
+    { Did John find Mary before Bill found Mary?} YES UNKNOWN 
+
+tqa {John found Mary before Bill.} \
+    {Did John find Mary before John found Bill?} YES UNKNOWN 
+
+tqa {John wants to know how many men work part time. And women.} \
+    {Does John want to know how many women work part time?} YES UNKNOWN 
+
+tqa {John wants to know how many men work part time, and which.} \
+    {Does John want to know which men work part time?} YES UNKNOWN 
+
+tqa {Bill spoke to everyone that John did. John spoke to Mary.} \
+    {Did Bill speak to Mary?} YES UNKNOWN 
+
+tqa {Bill spoke to everyone that John did. Bill spoke to Mary.} \
+    {Did John speak to Mary?} UNKNOWN UNKNOWN 
+
+tqa {John said Mary wrote a report, and Bill did too.} \
+    {Did Bill say Mary wrote a report?} YES UNKNOWN 
+
+tqa {John said Mary wrote a report, and Bill did too.} \
+    {Did John say Bill wrote a report?} YES UNKNOWN 
+
+tqa {John said that Mary wrote a report, and that Bill did too.} \
+    {Did Bill say Mary wrote a report?} UNKNOWN UNKNOWN 
+
+tqa {John wrote a report, and Bill said Peter did too.} \
+    {Did Bill say Peter wrote a report?} YES UNKNOWN 
+
+tqa {If John wrote a report, then Bill did too. John wrote a report.} \
+    {Did Bill write a report?} YES UNKNOWN 
+
+tqa {John wanted to buy a car, and he did.} \
+    { Did John buy a car?} YES UNKNOWN 
+
+tqa {John needed to buy a car, and Bill did.} \
+    {Did Bill buy a car?} UNKNOWN UNKNOWN 
+
+tqa {Smith represents his company and so does Jones.} \
+    {Does Jones represent Jones' company?} YES UNKNOWN 
+
+tqa {Smith represents his company and so does Jones.} \
+    {Does Jones represent Smith's company?} YES UNKNOWN 
+
+tqa {Smith represents his company and so does Jones.} \
+    { Does Smith represent Jones' company?} UNKNOWN UNKNOWN 
+
+tqa {Smith claimed he had costed his proposal and so did Jones.} \
+    {Did Jones claim he had costed his own proposal?} YES UNKNOWN 
+
+tqa {Smith claimed he had costed his proposal and so did Jones.} \
+    {Did Jones claim he had costed Smith's proposal?} YES UNKNOWN 
+
+tqa {Smith claimed he had costed his proposal and so did Jones.} \
+    {Did Jones claim Smith had costed Smith's proposal?} YES UNKNOWN 
+
+tqa {Smith claimed he had costed his proposal and so did Jones.} \
+    {Did Jones claim Smith had costed Jones' proposal?} UNKNOWN UNKNOWN 
+
+tqa {John is a man and Mary is a woman. John represents his company and so does Mary.} \
+    {Does Mary represent her own company?} YES UNKNOWN 
+
+tqa {John is a man and Mary is a woman. John represents his company and so does Mary.} \
+    {Does Mary represent John's company?} YES UNKNOWN 
+
+tqa {Bill suggested to Frank's boss that they should go to the meeting together, and Carl to Alan's wife.} \
+    {If it was suggested that Bill and Frank should go together, was it suggested that Carl and Alan should go together?} YES UNKNOWN 
+
+tqa {Bill suggested to Frank's boss that they should go to the meeting together, and Carl to Alan's wife.} \
+    {If it was suggested that Bill and Frank should go together, was it suggested that Carl and Alan's wife should go together?} UNKNOWN UNKNOWN 
+
+tqa {Bill suggested to Frank's boss that they should go to the meeting    together, and Carl to Alan's wife.} \
+    {If it was suggested that Bill and Frank's boss should go    together, was it suggested that Carl and Alan's wife should go together?} YES UNKNOWN 
+
+tqa {Bill suggested to Frank's boss that they should go to the meeting    together, and Carl to Alan's wife.} \
+    {If it was suggested that Bill and Frank's boss should go together, was it suggested that Carl and Alan should go together?} UNKNOWN UNKNOWN 
+
+tqa {Bill suggested to Frank's boss that they should go to the meeting    together, and Carl to Alan's wife.} \
+    {If it was suggested that Bill, Frank and Frank's boss should go    together, was it suggested that Carl, Alan and Alan's wife should go together?} YES UNKNOWN 
+
+tqa {A lawyer signed every report, and so did an auditor. That is, there was one lawyer who signed all the reports.} \
+    {Was there one auditor who signed all the reports?} YES UNKNOWN 
+
+tqa {John has a genuine diamond.} \
+    {Does John have a diamond?} YES UNKNOWN 
+
+tqa {John is a former university student.} \
+    {Is John a university student?} NO UNKNOWN 
+
+tqa {John is a successful former university student.} \
+    {Is John successful?} YES UNKNOWN 
+
+tqa {John is a former successful university student.} \
+    {Is John successful?} UNKNOWN UNKNOWN 
+
+tqa {John is a former successful university student.} \
+    {Is John a university student?} UNKNOWN UNKNOWN 
+
+tqa {Every mammal is an animal.} \
+    {Is every four-legged mammal a four-legged animal?} YES UNKNOWN 
+
+tqa {Dumbo is a four-legged animal.} \
+    {Is Dumbo four-legged?} YES UNKNOWN 
+
+tqa {Mickey is a small animal.} \
+    {Is Mickey a large animal?} NO UNKNOWN 
+
+tqa {Dumbo is a large animal.} \
+    {Is Dumbo a small animal?} NO UNKNOWN 
+
+tqa {Fido is not a small animal.} \
+    {Is Fido a large animal?} UNKNOWN UNKNOWN 
+
+tqa {Fido is not a large animal.} \
+    {Is Fido a small animal?} UNKNOWN UNKNOWN 
+
+tqa {Mickey is a small animal. Dumbo is a large animal.} \
+    {Is Mickey smaller than Dumbo?} YES UNKNOWN 
+
+tqa {Mickey is a small animal. Dumbo is a large animal.} \
+    {Is Mickey larger than Dumbo?} NO UNKNOWN 
+
+tqa {All mice are small animals. Mickey is a large mouse.} \
+    {Is Mickey a large animal?} NO UNKNOWN 
+
+tqa {All elephants are large animals. Dumbo is a small elephant.} \
+    {Is Dumbo a small animal?} NO UNKNOWN 
+
+tqa {All mice are small animals. All elephants are large animals. Mickey is a large mouse. Dumbo is a small elephant.} \
+    {Is Dumbo larger than Mickey?} YES UNKNOWN 
+
+tqa {All mice are small animals. Mickey is a large mouse.} \
+    {Is Mickey small?} UNKNOWN UNKNOWN 
+
+tqa {All legal authorities are law lecturers. All law lecturers are legal authorities.} \
+    {Are all fat legal authorities fat law lecturers?} YES UNKNOWN 
+
+tqa {All legal authorities are law lecturers. All law lecturers arelegal authorities.} \
+    {Are all competent legal authorities competent lawlecturers?} UNKNOWN UNKNOWN 
+
+tqa {John is a fatter politician than Bill.} \
+    {Is John fatter than Bill?} YES UNKNOWN 
+
+tqa {John is a cleverer politician than Bill.} \
+    {Is John cleverer than Bill?} UNKNOWN UNKNOWN 
+
+tqa {Kim is a clever person.} \
+    {Is Kim clever?} YES UNKNOWN 
+
+tqa {Kim is a clever politician.} \
+    {Is Kim clever?} UNKNOWN UNKNOWN 
+
+tqa {The PC-6082 is faster than the ITEL-XZ. The ITEL-XZ is fast.} \
+    {Is the PC-6082 fast?} YES UNKNOWN 
+
+tqa {The PC-6082 is faster than the ITEL-XZ.} \
+    {Is the PC-6082 fast?} UNKNOWN UNKNOWN 
+
+tqa {The PC-6082 is faster than the ITEL-XZ. The PC-6082 is fast.} \
+    {Is the ITEL-XZ fast?} UNKNOWN UNKNOWN 
+
+tqa {The PC-6082 is faster than the ITEL-XZ. The PC-6082 is slow.} \
+    {Is the ITEL-XZ fast?} NO UNKNOWN 
+
+tqa {The PC-6082 is as fast as the ITEL-XZ. The ITEL-XZ is fast.} \
+    {Is the PC-6082 fast?} YES UNKNOWN 
+
+tqa {The PC-6082 is as fast as the ITEL-XZ.} \
+    {Is the PC-6082 fast?} UNKNOWN UNKNOWN 
+
+tqa {The PC-6082 is as fast as the ITEL-XZ. The PC-6082 is fast.} \
+    {Is the ITEL-XZ fast?} UNKNOWN UNKNOWN 
+
+tqa {The PC-6082 is as fast as the ITEL-XZ. The PC-6082 is slow.} \
+    {Is the ITEL-XZ fast?} NO UNKNOWN 
+
+tqa {The PC-6082 is as fast as the ITEL-XZ.} \
+    {Is the PC-6082 faster than the ITEL-XZ?} UNKNOWN UNKNOWN 
+
+tqa {The PC-6082 is as fast as the ITEL-XZ.} \
+    {Is the PC-6082 slower than the ITEL-XZ?} NO UNKNOWN 
+
+tqa {ITEL won more orders than APCOM did.} \
+    {Did ITEL win some orders?} YES UNKNOWN 
+
+tqa {ITEL won more orders than APCOM did.} \
+    {Did APCOM win some orders?} UNKNOWN UNKNOWN 
+
+tqa {ITEL won more orders than APCOM did. APCOM won ten orders.} \
+    {Did ITEL win at least eleven orders?} YES UNKNOWN 
+
+tqa {ITEL won more orders than APCOM.} \
+    { Did ITEL win some orders?} YES UNKNOWN 
+
+tqa {ITEL won more orders than APCOM.} \
+    { Did APCOM win some orders?} UNKNOWN UNKNOWN 
+
+tqa {ITEL won more orders than APCOM. APCOM won ten orders.} \
+    {Did ITEL win at least eleven orders?} YES UNKNOWN 
+
+tqa {ITEL won more orders than the APCOM contract.} \
+    {Did ITEL win the APCOM contract?} YES UNKNOWN 
+
+tqa {ITEL won more orders than the APCOM contract.} \
+    {Did ITEL win more than one order?} YES UNKNOWN 
+
+tqa {ITEL won twice as many orders as APCOM. APCOM won ten orders.} \
+    {Did ITEL win twenty orders?} YES NO 
+
+tqa {ITEL won more orders than APCOM lost.} \
+    {Did ITEL win some orders?} YES UNKNOWN 
+
+tqa {ITEL won more orders than APCOM lost.} \
+    {Did APCOM lose some orders?} UNKNOWN UNKNOWN 
+
+tqa {ITEL won more orders than APCOM lost. APCOM lost ten orders.} \
+    {Did ITEL win at least eleven orders?} YES UNKNOWN 
+
+tqa {The PC-6082 is faster than 500 MIPS. The ITEL-ZX is slower than 500 MIPS.} \
+    {Is the PC-6082 faster than the ITEL-ZX?} YES UNKNOWN 
+
+tqa {ITEL sold 3000 more computers than APCOM. APCOM sold exactly 2500 computers.} \
+    {Did ITEL sell 5500 computers?} YES UNKNOWN 
+
+tqa {APCOM has a more important customer than ITEL.} \
+    {Does APCOM have a more important customer than ITEL is?} YES UNKNOWN 
+
+tqa {APCOM has a more important customer than ITEL.} \
+    {Does APCOM have a more important customer than ITEL has?} YES UNKNOWN 
+
+tqa {The PC-6082 is faster than every ITEL computer. The ITEL-ZX is an ITEL computer.} \
+    {Is the PC-6082 faster than the ITEL-ZX?} YES UNKNOWN 
+
+tqa {The PC-6082 is faster than some ITEL computer. The ITEL-ZX is an ITEL computer.} \
+    {Is the PC-6082 faster than the ITEL-ZX?} UNKNOWN UNKNOWN 
+
+tqa {The PC-6082 is faster than any ITEL computer. The ITEL-ZX is an ITEL computer.} \
+    {Is the PC-6082 faster than the ITEL-ZX?} YES UNKNOWN 
+
+tqa {The PC-6082 is faster than the ITEL-ZX and the ITEL-ZY.} \
+    {Is the PC-6082 faster than the ITEL-ZX?} YES UNKNOWN 
+
+tqa {The PC-6082 is faster than the ITEL-ZX or the ITEL-ZY.} \
+    {Is the PC-6082 faster than the ITEL-ZX?} YES UNKNOWN 
+
+tqa {ITEL has a factory in Birmingham.} \
+    {Does ITEL currently have a factory in Birmingham?} YES UNKNOWN 
+
+tqa {Since 1992 ITEL has been in Birmingham. It is now 1996.} \
+    {Was ITEL in Birmingham in 1993?} YES UNKNOWN 
+
+tqa {ITEL has developed a new editor since 1992.It is now 1996.} \
+    {Did ITEL develop a new editor in 1993?} UNKNOWN UNKNOWN 
+
+tqa {ITEL has expanded since 1992.It is now 1996.} \
+    {Did ITEL expand in 1993?} UNKNOWN UNKNOWN 
+
+tqa {Since 1992 ITEL has made a loss.It is now 1996.} \
+    {Did ITEL make a loss in 1993?} YES UNKNOWN 
+
+tqa {ITEL has made a loss since 1992.It is now 1996.} \
+    {Did ITEL make a loss in 1993?} UNKNOWN UNKNOWN 
+
+tqa {ITEL has made a loss since 1992. It is now 1996.} \
+    {Did ITEL make a loss in 1993?} YES UNKNOWN 
+
+tqa {In March 1993 APCOM founded ITEL.} \
+    {Did ITEL exist in 1992?} NO UNKNOWN 
+
+tqa {The conference started on July 4th, 1994. It lasted 2 days.} \
+    {Was the conference over on July 8th, 1994?} YES UNKNOWN 
+
+tqa {Yesterday APCOM signed the contract. Today is Saturday, July 14th.} \
+    {Did APCOM sign the contract Friday, 13th?} YES UNKNOWN 
+
+tqa {Smith left after Jones left. Jones left after Anderson left.} \
+    {Did Smith leave after Anderson left?} YES UNKNOWN 
+
+tqa {Smith was present after Jones left. Jones left after Anderson was present.} \
+    {Was Smith present after Anderson was present?} UNKNOWN UNKNOWN 
+
+tqa {Smith left. Jones left. Smith left after Jones left.} \
+    {Did Jones leave before Smith left?} YES UNKNOWN 
+
+tqa {Smith left. Jones left. Jones left before Smith left.} \
+    { Did Smith leave after Jones left?} YES UNKNOWN 
+
+tqa {Jones revised the contract. Smith revised the contract. Jones revised the contract before Smith did.} \
+    {Did Smith revise the contract after Jones did?} YES UNKNOWN 
+
+tqa {Jones revised the contract. Smith revised the contract.Jones revised the contract after Smith did.} \
+    {Did Smith revise the contract before Jones did?} YES UNKNOWN 
+
+tqa {Smith swam. Jones swam. Smith swam before Jones swam.} \
+    {Did Jones swim after Smith swam?} UNKNOWN UNKNOWN 
+
+tqa {Smith swam to the shore. Jones swam to the shore. Smith swam to the shore before Jones swam to the shore.} \
+    { Did Jones swim to the shore after Smith swam to the shore?} YES UNKNOWN 
+
+tqa {Smith was present.Jones was present. Smith was present after Jones was present.} \
+    {Was Jones present before Smith was present?} UNKNOWN UNKNOWN 
+
+tqa {Smith was present. Jones was present. Smith was present before Jones was present.} \
+    { Was Jones present after Smith was present?} UNKNOWN UNKNOWN 
+
+tqa {Smith left the meeting before he lost his temper.} \
+    {Did Smith lose his temper?} UNKNOWN UNKNOWN 
+
+tqa {Smith lived in Birmingham in 1991.} \
+    {Did Smith live in Birmingham in 1992?} UNKNOWN UNKNOWN 
+
+tqa {Smith wrote his first novel in 1991.} \
+    {Did Smith write his first novel in 1992?} NO UNKNOWN 
+
+tqa {Smith wrote a novel in 1991.} \
+    {Did Smith write it in 1992?} NO UNKNOWN 
+
+tqa {Smith wrote a novel in 1991.} \
+    {Did Smith write a novel in 1992?} UNKNOWN UNKNOWN 
+
+tqa {Smith was running a business in 1991.} \
+    {Was Smith running it in 1992?} UNKNOWN UNKNOWN 
+
+tqa {Smith discovered a new species in 1991.} \
+    {Did Smith discover it in 1992?} NO UNKNOWN 
+
+tqa {Smith discovered a new species in 1991.} \
+    {Did Smith discover a new species in 1992?} UNKNOWN UNKNOWN 
+
+tqa {Smith wrote a report in two hours. Smith started writing the report at 8 am.} \
+    {Had Smith finished writing the report by 11 am?} YES UNKNOWN 
+
+tqa {Smith wrote a report in two hours.} \
+    { Did Smith spend two hours writing the report?} UNKNOWN UNKNOWN 
+
+tqa {Smith wrote a report in two hours.} \
+    { Did Smith spend more than two hours writing the report?} NO UNKNOWN 
+
+tqa {Smith wrote a report in two hours.} \
+    { Did Smith write a report in one hour?} UNKNOWN NO 
+
+tqa {Smith wrote a report in two hours.} \
+    { Did Smith write a report?} YES UNKNOWN 
+
+tqa {Smith discovered a new species in two hours.} \
+    {Did Smith spend two hours discovering the new species?} NO UNKNOWN 
+
+tqa {Smith discovered a new species in two hours.} \
+    {Did Smith discover a new species?} YES UNKNOWN 
+
+tqa {Smith discovered many new species in two hours.} \
+    {Did Smith spend two hours discovering new species?} YES UNKNOWN 
+
+tqa {Smith was running his own business in two years.} \
+    {Did Smith spend two years running his own business?} UNKNOWN UNKNOWN 
+
+tqa {Smith was running his own business in two years. } \
+    {Did Smith spend more than two years running his own business?} UNKNOWN UNKNOWN 
+
+tqa {Smith was running his own business in two years.} \
+    {Did Smith run his own business?} YES UNKNOWN 
+
+tqa {In two years Smith owned a chain of businesses.} \
+    {Did Smith own a chain of business for two years?} UNKNOWN UNKNOWN 
+
+tqa {In two years Smith owned a chain of businesses.} \
+    {Did Smith own a chain of business for more than two years?} UNKNOWN UNKNOWN 
+
+tqa {In two years Smith owned a chain of businesses.} \
+    {Did Smith own a chain of business?} YES UNKNOWN 
+
+tqa {Smith lived in Birmingham for two years.} \
+    {Did Smith live in Birmingham for a year?} YES UNKNOWN 
+
+tqa {Smith lived in Birmingham for two years.} \
+    {Did Smith live in Birmingham for exactly a year?} NO UNKNOWN 
+
+tqa {Smith lived in Birmingham for two years.} \
+    {Did Smith live in Birmingham?} YES UNKNOWN 
+
+tqa {Smith ran his own business for two years.} \
+    {Did Smith run his own business for a year?} YES UNKNOWN 
+
+tqa {Smith ran his own business for two years.} \
+    {Did Smith run his own business?} YES UNKNOWN 
+
+tqa {Smith wrote a report for two hours. } \
+    {Did Smith write a report for an hour?} YES UNKNOWN 
+
+tqa {Smith wrote a report for two hours.} \
+    {Did Smith write a report?} UNKNOWN UNKNOWN 
+
+tqa {Smith discovered new species for two years.} \
+    {Did Smith discover new species?} YES UNKNOWN 
+
+tqa {In 1994 ITEL sent a progress report every month.} \
+    {Did ITEL send a progress report in July 1994?} YES UNKNOWN 
+
+tqa {Smith wrote to a representative every week. } \
+    {Is there a representative that Smith wrote to every week?} YES UNKNOWN 
+
+tqa {ITEL always delivers reports late. In 1993 ITEL delivered reports.} \
+    {Did ITEL deliver reports late in 1993?} YES UNKNOWN 
+
+tqa {ITEL never delivers reports late. In 1993 ITEL delivered reports.} \
+    { Did ITEL deliver reports late in 1993?} NO UNKNOWN 
+
+tqa {Smith arrived in Paris on the 5th of May, 1995. Today is the 15thof May, 1995. She is still in Paris.} \
+    {Was Smith in Paris on the 7th of May, 1995?} YES UNKNOWN 
+
+tqa {When Smith arrived in Katmandu she had been travelling for three days.} \
+    {Had Smith been travelling the before she arrived in Katmandu?} YES UNKNOWN 
+
+tqa {Jones graduated in March and has been employed ever since.Jones has been unemployed in the past.} \
+    {Was Jones unemployed at some time before he graduated?} YES UNKNOWN 
+
+tqa {Every representative has read this report. No two representatives have read it at the same time. No representative took less than half a day to read the report. There are sixteen representatives.} \
+    {Did it take the representatives more than a week to read the report?} YES NO 
+
+tqa {While Jones was updating the program, Mary came in and told him    about the board meeting. She finished before he did.} \
+    {Did Mary's story last as long as Jones's updating the program?} NO UNKNOWN 
+
+tqa {Before APCOM bought its present office building, it had been    paying mortgage interest on the previous one for 8 years. Since APCOM bought its present office building it has been paying mortgage interest on it for more than 10 years.} \
+    {Has APCOM been paying mortgage interest for a total of 15 years or more?} YES NO 
+
+tqa {When Jones got his job at the CIA, he knew that he would never be allowed to write his memoirs.} \
+    {Is it the case that Jones is not and will never be allowed to write his memoirs?} YES UNKNOWN 
+
+tqa {Smith has been to Florence twice in the past. Smith will go to Florence twice in the coming year.} \
+    {Two years from now will Smith have been to Florence at least four times?} YES UNKNOWN 
+
+tqa {Last week I already knew that when, in a month's time, Smith would discover that she had been duped she would be furious.} \
+    {Will it be the case that in a few weeks Smith will discover that she has been duped; and will she be furious?} YES UNKNOWN 
+
+tqa {No one gambling seriously stops until he is broke. No one can gamble when he is broke.} \
+    {Does everyone who starts gambling seriously stop the moment he is broke?} YES NO 
+
+tqa {No one who starts gambling seriously stops until he is broke.} \
+    {Does everyone who starts gambling seriously continue until he is broke?} YES UNKNOWN 
+
+tqa {Nobody who is asleep ever knows that he is asleep. But some people know that they have been asleep after they have been asleep.} \
+    {Do some people discover that they have been asleep?} YES UNKNOWN 
+
+tqa {ITEL built MTALK in 1993.} \
+    {Did ITEL finish MTALK in 1993?} YES UNKNOWN 
+
+tqa {ITEL was building MTALK in 1993.} \
+    {Did ITEL finish MTALK in 1993?} UNKNOWN UNKNOWN 
+
+tqa {ITEL won the contract from APCOM in 1993.} \
+    {Did ITEL win a contract in 1993?} YES UNKNOWN 
+
+tqa {ITEL was winning the contract from APCOM in 1993.} \
+    {Did ITEL win a contract in 1993?} UNKNOWN UNKNOWN 
+
+tqa {ITEL owned APCOM from 1988 to 1992.} \
+    {Did ITEL own APCOM in 1990?} YES UNKNOWN 
+
+tqa {Smith and Jones left the meeting.} \
+    {Did Smith leave the meeting?} YES UNKNOWN 
+
+tqa {Smith and Jones left the meeting.} \
+    {Did Jones leave the meeting?} YES UNKNOWN 
+
+tqa {Smith, Anderson and Jones met.} \
+    {Was there a group of people that met?} YES UNKNOWN 
+
+tqa {Smith knew that ITEL had won the contract in 1992.} \
+    {Did ITEL win the contract in 1992?} YES UNKNOWN 
+
+tqa {Smith believed that ITEL had won the contract in 1992.} \
+    {Did ITEL win the contract in 1992?} UNKNOWN UNKNOWN 
+
+tqa {Smith said that ITEL had won the contract in 1992.} \
+    {Did ITEL win the contract in 1992?} UNKNOWN UNKNOWN 
+
+tqa {Smith  denied that ITEL had won the contract in 1992.} \
+    {Did ITEL win the contract in 1992?} UNKNOWN UNKNOWN 
+
+tqa {Smith  feared that ITEL had won the contract in 1992.} \
+    {Did ITEL win the contract in 1992?} UNKNOWN UNKNOWN 
+
+tqa {Smith  hoped that ITEL had won the contract in 1992.} \
+    {Did ITEL win the contract in 1992?} UNKNOWN UNKNOWN 
+
+tqa {ITEL managed to win the contract in 1992.} \
+    {Did ITEL win the contract in 1992?} YES UNKNOWN 
+
+tqa {ITEL tried /wanted to win the contract in 1992.} \
+    {Did ITEL win the contract in 1992?} UNKNOWN UNKNOWN 
+
+tqa {It is true that ITEL won the contract in 1992.} \
+    {Did ITEL win the contract in 1992?} YES UNKNOWN 
+
+tqa {It is false that ITEL won the contract in 1992.} \
+    {Did ITEL win the contract in 1992?} NO UNKNOWN 
+
+tqa {Smith saw Jones sign the contract. If Jones signed the contract, his heart was beating.} \
+    {Did Smith see Jones' heart beat?} UNKNOWN UNKNOWN 
+
+tqa {Smith saw Jones sign the contract. When Jones signed the contract, his heart was beating.} \
+    {Did Smith see Jones' heart beat?} UNKNOWN UNKNOWN 
+
+tqa {Smith saw Jones sign the contract.} \
+    {Did Jones sign the contract?} YES UNKNOWN 
+
+tqa {Smith saw Jones sign the contract. Jones is the chairman of ITEL.} \
+    {Did Smith see the chairman of ITEL sign the contract?} YES UNKNOWN 
+
+tqa {Helen saw the chairman of the department answer the phone. The chairman of the department is a person. } \
+    {Is there anyone whom Helen saw answer the phone?} YES UNKNOWN 
+
+tqa {Smith saw Jones sign the contract and his secretary make a copy.} \
+    {Did Smith see Jones sign the contract?} YES UNKNOWN 
+
+tqa {Smith saw Jones sign the contract or cross out the crucial clause.} \
+    {Did Smith either see Jones sign the contract or see Jones cross out the crucial clause?} YES UNKNOWN 
+
+display-tqa-tally
+# Number correct:   106
+# Number incorrect: 233
