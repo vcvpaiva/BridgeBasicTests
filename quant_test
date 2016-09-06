@@ -1,0 +1,118 @@
+init-tqa
+tqa {Every boy hopped.} \
+    {Every boy hopped.} YES YES 
+
+tqa {Any boy hopped.} \
+    {Any boy hopped.} YES YES 
+
+tqa {All boys hopped.} \
+    {All boys hopped.} YES YES 
+
+tqa {A boy hopped.} \
+    {A boy hopped.} YES YES 
+
+tqa {A boy hopped.} \
+    {One boy hopped.} YES YES 
+
+tqa {A boy hopped.} \
+    {A boy didn't hop.} UNKNOWN UNKNOWN 
+
+tqa {Every boy hopped.} \
+    {The boy hopped.} YES YES 
+
+tqa {Every boy hopped.} \
+    {A boy hopped.} YES YES 
+
+tqa {The boy hopped.} \
+    {Every boy hopped.} UNKNOWN UNKNOWN 
+
+tqa {A boy hopped.} \
+    {Every boy hopped.} UNKNOWN UNKNOWN 
+
+tqa {Every boy hopped.} \
+    {Some boys hopped.} YES YES 
+
+tqa {Every tall boy hopped.} \
+    {Every boy hopped.} UNKNOWN UNKNOWN 
+
+tqa {Every tall boy hopped.} \
+    {A tall boy hopped.} YES YES 
+
+tqa {Every tall boy in the park hopped.} \
+    {Some tall boys in the park hopped.} YES YES 
+
+tqa {Each tall boy hopped.} \
+    {Every boy hopped.} UNKNOWN UNKNOWN 
+
+tqa {A tall boy hopped in the park.} \
+    {A boy hopped in the park.} YES YES 
+
+tqa {All tall boys hopped in the park.} \
+    {All boys hopped in the park.} UNKNOWN UNKNOWN 
+
+tqa {All tall boys hopped in the park.} \
+    {All boys hopped in the park.} UNKNOWN UNKNOWN 
+
+tqa {All tall boys want to  hop in the park.} \
+    {Do all tall boys want to hop in the park?} YES YES 
+
+tqa {No tall boys  hopped in the park.} \
+    {Did any   boys hop in the park?} UNKNOWN UNKNOWN 
+
+tqa {All  boys hopped in the park.} \
+    {All boys, in the park, hopped.} YES YES 
+
+tqa {Some boys hopped in the park.} \
+    {Did any tall boys hop in the park?} UNKNOWN UNKNOWN 
+
+tqa {Some tall boys hopped in the park.} \
+    {Did any  boys hop in the park?} YES YES 
+
+tqa {All tall boys hopped in the park.} \
+    {Did any  short boys hop in the park?} UNKNOWN UNKNOWN 
+
+tqa {No tall boys  hopped in the park.} \
+    {Did any tall boys hop in the park?} NO NO 
+
+tqa {Every tall boy in the park hopped.} \
+    {Some boys in the park hopped.} YES YES 
+
+tqa {All tall boys hopped in the park.} \
+    {All boys, who are tall, hopped in the park.} YES YES 
+
+tqa {A tall boy hopped.} \
+    {Was there a tall boy that hopped?} YES YES 
+
+tqa {All of the tractors are large.} \
+    {All of the tractors are large.} YES YES 
+
+tqa {Any of the tractors are available.} \
+    {Any of the tractors are available.} YES YES 
+
+tqa {Each of the tractors is large.} \
+    {Each of the tractors is large.} YES YES 
+
+tqa {every boy who saw a girl} \
+    {every boy who saw a tall girl} YES YES 
+
+tqa {every boy who saw a tall girl} \
+    {every boy who saw a girl} UNKNOWN UNKNOWN 
+
+tqa {a boy who saw a girl} \
+    {every boy who saw a tall girl} UNKNOWN UNKNOWN 
+
+tqa {a boy who saw a tall girl} \
+    {every boy who saw a girl} UNKNOWN UNKNOWN 
+
+tqa {a boy who saw every girl} \
+    {a boy who saw every tall girl} YES YES 
+
+tqa {a boy who saw every tall girl} \
+    {a boy who saw every girl} UNKNOWN UNKNOWN 
+
+tqa {every boy who saw every girl} \
+    {every boy who saw every tall girl} UNKNOWN UNKNOWN 
+
+display-tqa-tally
+# Number correct:   38
+# Number incorrect: 0

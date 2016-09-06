@@ -1,0 +1,34 @@
+init-tqa\
+
+tqa {It is acceptable that  Mary hopped.	} \
+    {Mary hopped.} YES YES {i disagree vcvp}
+
+tqa {It is accurate that  Mary hopped.	} \
+    {Mary hopped.} YES YES 
+
+tqa {It is apparent that  Mary hopped.	} \
+    {Mary hopped.} YES YES 
+
+tqa {It is appropriate that  Mary hopped.	} \
+    {Mary hopped.} YES YES 
+
+tqa {It is awful that  Mary hopped.	} \
+    {Mary hopped.} YES YES 
+
+tqa {It is bad that  Mary hopped.	} \
+    {Mary hopped.} YES YES 
+tqa {Eric was mad that Mary hopped.	} \
+    {Mary hopped.} YES YES 
+
+tqa {Eric was right that Mary had hopped.	} \
+    {Mary hopped.} YES YES 
+
+tqa {Eric was sad that Mary hopped.	} \
+    {Mary hopped.} YES YES 
+
+tqa {Eric was not  able to see  Mary.	} \
+    {Eric saw Mary.} NO NO 
+
+display-tqa-tally
+# Number correct:   71
+# Number incorrect: 0

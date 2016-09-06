@@ -1,0 +1,13 @@
+init-tqa
+tqa {Ed didn't take the time to drink milk.} \
+    {Ed didn't drink milk.} YES YES 
+
+tqa {The psychiatrist didn't take the time to drink milk.} \
+    {The psychiatrist drank milk.} NO NO 
+
+tqa {Sally took the time to stand up.} \
+    {Sally didn't stand up.} NO NO 
+
+display-tqa-tally
+# Number correct:   3
+# Number incorrect: 0

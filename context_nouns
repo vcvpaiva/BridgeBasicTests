@@ -1,0 +1,124 @@
+init-tqa
+tqa {Eric was filled with sadness that Mary left.} \
+    {Mary left.} YES YES 
+
+tqa {Eric was filled with angst that Mary arrived.} \
+    {Mary arrived.} YES YES 
+
+tqa {Eric was filled with happiness that Mary visited Paris.} \
+    {Mary visited Paris.} YES YES 
+
+tqa {Eric was filled with angst that Mary hopped.} \
+    {Mary hopped.} YES YES 
+
+tqa {The fact that Eric slept worried Mary.} \
+    {Eric slept.} YES YES 
+
+tqa {The conclusion that Eric slept worried Mary.} \
+    {Eric slept.} UNKNOWN UNKNOWN {mismatch verb-comp vs. noun-comp}
+
+tqa {The discovery that Eric slept worried Mary.} \
+    {Eric slept.} YES YES 
+
+tqa {The lie that Eric slept worried Mary.} \
+    {Eric slept.} NO NO 
+
+tqa {The falsehood that Eric slept worried Mary.} \
+    {Eric slept.} NO NO 
+
+tqa {The fact is that Eric slept.} \
+    {Eric slept.} YES YES 
+
+tqa {The fact is that Eric loves Mary.} \
+    {Eric loves Mary.} YES YES 
+
+tqa {It is a fact  that Eric slept.} \
+    {Eric slept.} YES YES 
+
+tqa {The fact is that Eric slept.} \
+    {It is a fact that Eric slept.} YES YES {H => Eric slept.}
+
+tqa {It is a fact  that Eric slept.} \
+    {The fact is that Eric slept.} YES YES { H=> Eric slept.}
+
+tqa {It is  not a fact  that Eric slept.} \
+    { Eric slept.} NO NO 
+
+tqa {The fact is that Eric didn't sleep.} \
+    {Eric slept.} NO NO 
+
+tqa {The problem is that Eric slept.} \
+    {Eric slept.} YES YES 
+
+tqa {The problem is that Eric didn't sleep.} \
+    {Eric slept.} NO NO 
+
+tqa {The problem is to leave early.} \
+    {To leave early is the problem.} YES YES {copula?}
+
+tqa {The situation created by Eric is complicated.} \
+    {Eric created the situation.} YES YES 
+
+tqa {The situation that  Eric created is complicated.} \
+    {Eric created the situation.} YES YES 
+
+tqa {The situation is that  Eric created the problem} \
+    {Eric created the problem.} YES YES {noun-extra vs. noun-comp?}
+
+tqa {The truth is that Eric slept.} \
+    {Eric slept.} YES YES 
+
+tqa {The truth is that to leave on time is difficult.} \
+    {To leave on time is difficult.} YES YES 
+
+tqa {It is the  case that Eric slept.} \
+    {Eric slept.} YES YES 
+
+tqa {It is not the  case that Eric slept.} \
+    {Eric slept.} NO NO 
+
+tqa {It is  the  case that Eric didn't sleep.} \
+    {Eric slept.} NO NO 
+
+tqa {The  example is that Eric  slept.} \
+    {Eric slept.} UNKNOWN UNKNOWN 
+
+tqa {The  instance is that Eric  slept.} \
+    {Eric slept.} UNKNOWN UNKNOWN 
+
+tqa {The  subject is that Eric  slept.} \
+    {Eric slept.} UNKNOWN UNKNOWN 
+
+tqa {The  event is that Eric  slept.} \
+    {Eric slept.} YES YES 
+
+tqa {The  consequence is that Eric  slept.} \
+    {Eric slept.} YES YES 
+
+tqa {The conjecture is that Eric slept.} \
+    {Eric slept.} UNKNOWN UNKNOWN 
+
+tqa {The proposition is that Eric slept.} \
+    {Eric slept.} UNKNOWN UNKNOWN 
+
+tqa {The observation is that Eric slept.} \
+    {Eric slept.} YES YES
+
+tqa {The saying is that Eric slept.} \
+    {Eric slept.} UNKNOWN UNKNOWN 
+
+tqa {The report is that Eric slept.} \
+    {Eric slept.} UNKNOWN UNKNOWN {mismatch vcomp vs. noun-comp}
+
+tqa {The assertion is that Eric slept.} \
+    {Eric slept.} UNKNOWN UNKNOWN 
+
+tqa {The problem is that Eric left early.} \
+    {The problem is that Eric left early.} YES YES 
+
+tqa {The truth is that Eric arrived.} \
+    {The truth is that Eric arrived.} YES YES 
+
+display-tqa-tally
+# Number correct:   40
+# Number incorrect: 0

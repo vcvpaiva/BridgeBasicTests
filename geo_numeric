@@ -1,0 +1,163 @@
+init-tqa
+tqa {Johannes lives in Germany.} \
+    {Who is German?} UNKNOWN UNKNOWN 
+
+tqa {Eric is from America.} \
+    {Who is English?} UNKNOWN UNKNOWN 
+
+tqa {Eric was born in England.} \
+    {Who is German?} UNKNOWN UNKNOWN 
+
+tqa {Johannes lives in Germany.} \
+    {Who is Russian?} UNKNOWN UNKNOWN 
+
+tqa {Ivan is from Russia.} \
+    {Who is French?} UNKNOWN UNKNOWN 
+
+tqa {Jean is from France.} \
+    {Who is American?} UNKNOWN UNKNOWN 
+
+tqa {Cambridge is 38 miles north of London.} \
+    {Where is Cambridge?} YES YES 
+
+tqa {Cambridge is 38 miles north of London.} \
+    {Is Cambridge north of London?} YES YES 
+
+tqa {Buckingham Palace is in London.} \
+    {What palaces are in America?} UNKNOWN UNKNOWN 
+
+tqa {Film director Woody Allen lives in New York.} \
+    {Which film directors live in France?} UNKNOWN UNKNOWN 
+
+tqa {Cambridge is 38 miles north of London.} \
+    {Where is Oxford?} UNKNOWN UNKNOWN 
+
+tqa {Cambridge is 38 miles north of London.} \
+    {Is Cambridge near Paris?} UNKNOWN UNKNOWN 
+
+tqa {Cambridge is 38 miles north of London.} \
+    {How far is it from Cambridge to Paris?} UNKNOWN UNKNOWN 
+
+tqa {Cambridge is 38 miles north of London.} \
+    {What is the distance from Cambridge to Paris?} UNKNOWN UNKNOWN 
+
+tqa {Eric has two cats.} \
+    {Who has two cats?} YES YES 
+
+tqa {Eric has two cats.} \
+    {Who has cats?} YES YES 
+
+tqa {Eric has two cats.} \
+    {Who has a cat?} YES YES 
+
+tqa {Eric has two cats.} \
+    {Who has two dogs?} UNKNOWN UNKNOWN 
+
+tqa {Eric has two cats.} \
+    {Who has dogs?} UNKNOWN UNKNOWN 
+
+tqa {Eric has two cats.} \
+    {Who has a dog?} UNKNOWN UNKNOWN 
+
+tqa {Eric has at least five cats.} \
+    {Who has at least five cats?} YES YES 
+
+tqa {Eric has at least five cats.} \
+    {Who has at least three cats?} YES YES 
+
+tqa {Eric has at least five cats.} \
+    {Who has cats?} YES YES 
+
+tqa {Eric has at least five cats.} \
+    {Who has a cat?} YES YES 
+
+tqa {Eric has more than five cats.} \
+    {Who has more than five cats?} YES YES 
+
+tqa {Eric has more than five cats.} \
+    {Who has over five cats?} YES YES 
+
+tqa {Eric has more than five cats.} \
+    {Who has more than three cats?} YES YES 
+
+tqa {Eric has more than five cats.} \
+    {Who has cats?} YES YES 
+
+tqa {Eric has more than five cats.} \
+    {Who has a cat?} YES YES 
+
+tqa {Eric has under five cats.} \
+    {Who has under five cats?} YES YES 
+
+tqa {Eric has under five cats.} \
+    {Who has less than five cats?} YES YES 
+
+tqa {Eric has under five cats.} \
+    {Who has less than ten cats?} YES YES 
+
+tqa {Eric has under five cats.} \
+    {Who has cats?} YES YES 
+
+tqa {Eric has under five cats.} \
+    {Who has a cat?} YES YES 
+
+tqa {Eric has less than five cats.} \
+    {Who has less than five cats?} YES YES 
+
+tqa {Eric has less than five cats.} \
+    {Who has less than ten cats?} YES YES 
+
+tqa {Eric has less than five cats.} \
+    {Who has cats?} YES YES 
+
+tqa {Eric has less than five cats.} \
+    {Who has a cat?} YES YES 
+
+tqa {Eric has at least five cats.} \
+    {Who has at least ten cats?} UNKNOWN UNKNOWN 
+
+tqa {Eric has at least five cats.} \
+    {Who has dogs?} UNKNOWN UNKNOWN 
+
+tqa {Eric has at least five cats.} \
+    {Who has a dog?} UNKNOWN UNKNOWN 
+
+tqa {Eric has more than five cats.} \
+    {Who has more than ten cats?} UNKNOWN UNKNOWN 
+
+tqa {Eric has more than five cats.} \
+    {Who has over ten cats?} UNKNOWN UNKNOWN 
+
+tqa {Eric has more than five cats.} \
+    {Who has dogs?} UNKNOWN UNKNOWN 
+
+tqa {Eric has more than five cats.} \
+    {Who has a dog?} UNKNOWN UNKNOWN 
+
+tqa {Eric has under five cats.} \
+    {Who has under five dogs?} UNKNOWN UNKNOWN 
+
+tqa {Eric has under five cats.} \
+    {Who has less than three cats?} UNKNOWN UNKNOWN 
+
+tqa {Eric has under five cats.} \
+    {Who has dogs?} UNKNOWN UNKNOWN 
+
+tqa {Eric has under five cats.} \
+    {Who has a dog?} UNKNOWN UNKNOWN 
+
+tqa {Eric has less than five cats.} \
+    {Who has less than five dogs?} UNKNOWN UNKNOWN 
+
+tqa {Eric has less than five cats.} \
+    {Who has less than three cats?} UNKNOWN UNKNOWN 
+
+tqa {Eric has less than five cats.} \
+    {Who has dogs?} UNKNOWN UNKNOWN 
+
+tqa {Eric has less than five cats.} \
+    {Who has a dog?} UNKNOWN UNKNOWN 
+
+display-tqa-tally
+# Number correct:   53
+# Number incorrect: 0

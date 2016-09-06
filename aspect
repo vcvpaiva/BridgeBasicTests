@@ -1,0 +1,43 @@
+init-tqa
+tqa {Ed built a house. } \
+    {Ed was building a house.} YES YES 
+
+tqa {Ed was building a house. } \
+    {Ed built a house.} UNKNOWN UNKNOWN 
+
+tqa {Ed ran. } \
+    {Ed was running. } YES YES 
+
+tqa { Ed was running. } \
+    {Ed ran. } YES YES 
+
+tqa {Ed was reaching the summit. } \
+    {Ed reached the summit.} YES YES 
+
+tqa {Ed reached the summit. } \
+    {Ed was reaching the summit.} YES YES 
+
+
+tqa { Ed finished building a house.} \
+    {Ed built a house.} YES YES 
+
+tqa {Ed built houses. } \
+    {Ed was building houses.} YES YES 
+
+tqa {Ed was building houses. } \
+    {Ed built houses.} YES YES 
+
+tqa {Ed ate rice. } \
+    { Ed was eating rice.} YES YES 
+
+tqa {Ed walked to the station.  } \
+    {Ed was walking to the station.} YES YES 
+
+tqa {Ed was walking towards the station. } \
+    {Ed walked to the station} UNKNOWN UNKNOWN 
+
+
+
+display-tqa-tally
+# Number correct:   12
+# Number incorrect: 0
