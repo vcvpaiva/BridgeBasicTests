@@ -1,5 +1,6 @@
 # Bridge Basic Tests
 A collection of testsuites used by the Bridge system to regression check the basics.
 
-Paper "Designing testsuites for grammar-based systems in applications", at 
-https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AYdo1hMAAAAJ&cstart=40&sortby=pubdate&citation_for_view=AYdo1hMAAAAJ:aqlVkmm33-oC
+Papers:
+* "PARC's Bridge and Question Answering System" (with Daniel G. Bobrow, Bob Cheslow, Cleo Condoravdi, Lauri Karttunen, Tracy H. King, Rowan Nairn, Charlotte Price and Annie Zaenen). Proceedings of Grammar Engineering Across Frameworks, pp 26--45, 2007. http://stanford.io/2cifygE
+* "Designing testsuites for grammar-based systems in applications", at Workshop on Grammar Engineering Across Frameworks (GEAF'08), Manchester,  UK, 24 August 2008, http://bit.ly/2cbnwrs
