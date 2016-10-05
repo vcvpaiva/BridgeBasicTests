@@ -1,0 +1,103 @@
+# Pargram basic tests in English, from http://clarino.uib.no/iness/treebanks?session-id=241479270868082
+
+The driver starts the tractor.
+The tractor is red.
+What did the farmer see?
+Did the farmer sell his tractor?
+Push the button.
+Don't push the button.
+The farmer gave his neighbor an old tractor.
+The farmer cut the tree down.
+The farmer groaned.
+My neighbor was given an old tractor by the farmer.
+The tree was cut down yesterday.
+The tree had been cut down.
+The tractor starts with a shudder.
+The tractor appeared.
+The boy knows the tractor is red.
+The child thinks he started the tractor.
+The farmer knows who started the tractor.
+The child wondered whether the button had been pushed.
+The tractor that the farmer bought is red.
+The man who bought the tractor left.
+The store the farmer bought the tractor from closed.
+Whoever bought this tractor is a lucky person.
+The farmer made his son clean the tractor.
+The farmer made his son leave.
+The farmer made her son buy the tractor.
+The farmer let her son buy the tractor.
+The farmer bought his son a tractor.
+The woman bought the tractor for her husband.
+The lovers danced until dawn.
+The boy bathed in the river.
+The teacher read to himself aloud.
+The brothers bought the tractor for each other.
+My sister is a great teacher.
+The child is in the house.
+The children are happy.
+It is raining.
+There is a problem with the tractor.
+The book cover depicted a tractor.
+Let's get ice-cream.
+The boy swept up the broken wine bottle.
+The red wine bottle broke.
+There are great green globs of greasy grimy gopher guts.
+They are proud of their daughter.
+My tractor is faster than your sports car.
+My tractor is the fastest vehicle in the county.
+The barking dog woke the neighbours.
+The tea drinking woman admired her new purchase from eBay.
+The farmer wants to buy a tractor.
+The farmer's daughter promised to repair the tractor.
+The farmer persuaded his wife to buy a new tractor.
+The house is not big.
+The cat is not in the house.
+The houses are not big.
+The cats are not in the house.
+The cat is not in the house either.
+Nor is the cat in the house.
+Neither is the cat in the house.
+The girl did not buy the apple.
+The girl did not buy apples.
+The girl did not buy any apples.
+The girl did not buy anything.
+The girl bought no apples.
+The girl bought nothing.
+The girl never bought anything.
+The girl did not buy some books.
+The boy does not think that the girl is tall.
+The boy said that the girl is not tall.
+The boy cannot watch the film.
+The boy cannot not watch the film.
+The woman asked the girl not to open the door for strangers.
+The woman saw the boy not eating the fish.
+Not being hungry, the man did not cook fish.
+It is not the dog that the girl saw.
+It is not the dog that the girl did not see.
+Do not eat the fish.
+Do not eat anything.
+The dog has a bone.
+The farmer owns a cow.
+The cat has dark fur.
+That tractor has a bright red color.
+The tree has a big branch.
+Dogs have four legs.
+The farmer has a fear of spiders.
+The girl has two brothers.
+The girl doesn't have a father.
+the dog's bone
+the farmer's cow
+the cat's dark fur
+the bright red color of the tractor
+the tree's branch
+the branch of the tree
+the farmer's fear of spiders
+the fear of spiders of the farmer
+the girl's two brothers
+the two brothers of the girl
+the farmer's cows' milk
+the milk of the cows of the farmer
+A mouse took a stroll through the deep dark wood.
+A fox saw the mouse and the mouse looked good.
+Where are you going to little brown mouse?
+Come and have lunch in my underground house.
