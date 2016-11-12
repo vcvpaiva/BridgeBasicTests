@@ -1,0 +1,159 @@
+;;; Testsuite from http://svn.emmtee.net/trunk/uio/wesearch/esd.txt
+;;; ERG/Delphin in http://moin.delph-in.net/ErgSemantics
+;;;
+;;; Apposition
+;;;
+[0100] |Abrams, the dog, arrived.
+[0101] |Abrams, garden dog, arrived.
+;;;
+;;; Compounding
+;;;
+[0150] |The garden dog barked.
+[0151] |The Abrams picture arrived.
+[0152] |Kim Browne arrived.
+[0153] |Professor Browne arrived.
+[0154] |The tobacco-happy dog barked.
+[0155] |The local and state dogs barked.
+[0156] |The state and local dogs barked. ;; variant
+;;;
+;;; Conditionals
+;;;
+[0200] |If Abrams arrived, Browne arrived.
+[0201] |Had Abrams arrived, Browne would have barked.
+;;;
+;;; Control Relations
+;;;
+[1200] |The dog tried to bark.
+[1201] |Abrams persuaded the dog to bark.
+[1202] |It is easy for the dog to bark.
+;;;
+;;; Coordination
+;;;
+[0250] |Abrams and Browne arrived.
+[0251] |Abrams, Browne, and Chiang arrived.
+[0252] |The dog and cat arrived.
+[0253] |The dog, cat, and picture arrived.
+[0252] |My friend and colleague arrived. ;; forces identity
+[0253] |Abrams barked and was old.
+[0254] |Abrams arrived, barked, and was old.
+[0255] |Abrams arrived and the dog barked. ;; variant
+[0256] |Abrams wanted and expected to arrive.
+[0257] |The old and fierce dog barked. ;; variant
+[0258] |The dog is old and fierce.
+[0259] |The dog barked on Monday and on Wednesday.
+;;;
+;;; Ellipsis
+;;;
+[0300] |Did you?
+[0301] |There were.
+[0302] |Abrams tried to.
+;;;
+;;; Foreign Expressions
+;;;
+[0350] |Abrams said |i j'adore la neige i|.
+;;;
+;;; Fragments
+;;;
+[0400] |Hey!
+[0401] |Dogs.
+[0402] |Arrived.
+[0403] |Because Abrams left.
+[0402] |Probably Abrams.
+;;;
+;;; Imperatives
+;;;
+[0450] |Chase Browne!
+[0451] |Don't you chase Browne!
+[0452] |Let's chase Browne!
+;;;
+;;; Implicit Locatives
+;;;
+[0460] |The dog barks every day.
+[0461] |Browne arrived the day of the garden dog.
+[0462] |The dog barks there.
+[0463] |The day the dog barked arrived.
+[0464] |The meeting that day was local.
+;;;
+;;; Implicit Nominals
+;;;
+[0850] |Browne's barks.
+[0851] |The dog chased that one.
+[0852] |Three bark.
+[0853] |That's enough.
+;;;
+;;; Implicit Quantification
+;;;
+[1100] |Dogs barked.
+[1101] |Abrams barked.
+[1102] |Five bothers Abrams.
+[1103] |Three dogs barked.
+[1104] |Many dogs barked.
+;;;
+;;; Instrumental Relatives
+;;;
+[0500] |Money to buy the dog arrived.
+;;;
+;;; Measure phrases
+;;;
+[0600] |The dog is three weeks old.
+;;;
+;;; Nominalization
+;;;
+[0650] |To bark bothers Browne.
+[0651] |Chasing the cat is old.
+[0652] |What the dog chased bothers Browne.
+;;;
+;;; Non-Adverbial Clausal Modifiers
+;;;
+[0700] |The dog arrived barking.
+[0701] |Very tired, the dog arrived.
+[0702] |Chased by the cat, the dog barked.
+;;;
+;;; Number Sequences
+;;;
+[0800] |My number is six thirty eight.
+;;;
+;;; Parentheticals
+;;;
+[0900] |Someone old (maybe it was Abrams) arrived.
+;;;
+;;; Partitives
+;;;
+[0950] |Three of the dogs bark.
+[0951] |Who is the oldest of all?
+[0952] |Some of them arrived.
+;;;
+;;; Quasi-Modal Infinitivals
+;;;
+[0550] |This dog is to guard the tobacco.
+[0551] |The dog who is to guard the tobacco arrived.
+[0552] |The dog to guard the tobacco arrived.
+;;;
+;;; Time Expressions (see also ImplicitLocatives)
+;;;
+Abrams arrived in 1994.
+Abrams arrived in June.
+Abrams arrived that month.
+Abrams arrived last week.
+Abrams slept over Christmas.
+Abrams arrived on the 3rd.
+Abrams arrived yesterday.
+Abrams arrived the first day.
+Abrams arrived on Tuesday.
+Abrams arrived in the morning.
+Abrams arrived at noon.
+Abrams arrived at three.  ;; [o'clock a.m.]
+Abrams arrived that hour.
+Abrams arrived at fifteen past.
+Abrams arrived at half past.
+Abrams arrived (at) a little before two.
+Abrams arrived at three thirty.
+
+
+[1050] |Abrams arrived Tuesday morning.
+[1051] |Abrams arrived June 3rd.
+;;;
+;;; Vocatives
+;;;
+[1150] |Abrams, don't bark!
+[1151] |It rained, Abrams.
