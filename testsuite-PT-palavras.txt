@@ -1,0 +1,2230 @@
+
+<ß>
+Choveu 	[chover] <*> <mv> V PS 3S IND VFIN @FS-STA  #1->0
+$. #2->0
+</ß>
+
+
+<ß>
+Choveu 	[chover] <*> <mv> V PS 3S IND VFIN @FS-STA  #1->0
+$. #2->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+ladrou 	[ladrar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+$. #4->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+latiu 	[latir] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+$. #4->0
+</ß>
+
+
+<ß>
+A 	[o] <*> <artd> DET F S @>N  #1->2
+janela 	[janela] N F S @SUBJ>  #2->3
+abriu- 	[abrir] <hyfen> <mv> V PS 3S IND VFIN @FS-STA  #3->0
+se 	[se] PERS F 3S ACC @<ACC-PASS  #4->3
+$. #5->0
+</ß>
+
+
+<ß>
+A 	[o] <*> <artd> DET F S @>N  #1->2
+janela 	[janela] N F S @SUBJ>  #2->3
+abriu 	[abrir] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+$. #4->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+perseguiu 	[perseguir] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+o 	[o] <artd> DET M S @>N  #4->5
+Bobi 	[Bobi] <hum> <*> PROP M S @<ACC  #5->3
+$. #6->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+correu 	[correr] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+atrás=de 	[atrás=de] <sam-> PRP @<ADVL  #4->3
+o 	[o] <artd> <-sam> DET M S @>N  #5->6
+Bobi 	[Bobi] <hum> <*> PROP M S @P<  #6->4
+$. #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+passou 	[passar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+o 	[o] <artd> DET M S @>N  #4->5
+cigarro 	[cigarro] N M S @<ACC  #5->3
+a 	[a] <sam-> PRP @<ADVL  #6->3
+o 	[o] <-sam> <artd> DET M S @>N  #7->8
+Bobi 	[Bobi] <hum> <*> PROP M S @P<  #8->6
+$. #9->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+passou 	[passar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+a 	[a] <sam-> PRP @<PIV  #4->3
+o 	[o] <-sam> <artd> DET M S @>N  #5->6
+Bobi 	[Bobi] <hum> <*> PROP M S @P<  #6->4
+o 	[o] <artd> DET M S @>N  #7->8
+cigarro 	[cigarro] N M S @<ACC  #8->3
+$. #9->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+passou 	[passar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+a 	[a] <sam-> PRP @<PIV  #4->3
+o 	[o] <-sam> <artd> DET M S @>N  #5->6
+Bobi 	[Bobi] <hum> <*> PROP M S @P<  #6->4
+o 	[o] <artd> DET M S @>N  #7->8
+cigarro 	[cigarro] N M S @<ACC  #8->3
+$. #9->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+passou 	[passar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+o 	[o] <artd> DET M S @>N  #4->5
+cigarro 	[cigarro] N M S @<ACC  #5->3
+a 	[a] <sam-> PRP @<ADVL  #6->3
+o 	[o] <-sam> <artd> DET M S @>N  #7->8
+Bobi 	[Bobi] <hum> <*> PROP M S @P<  #8->6
+$. #9->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+apostou 	[apostar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+um 	[um] <arti> DET M S @>N  #4->5
+cigarro 	[cigarro] N M S @<ACC  #5->3
+com 	[com] PRP @<ADVL  #6->3
+o 	[o] <artd> DET M S @>N  #7->8
+Bobi 	[Bobi] <hum> <*> PROP M S @P<  #8->6
+em 	[em] PRP @<ADVL @N<PRED  #9->3
+como 	[como] <clb> <interr> ADV @ADVL>  #10->11
+choveu 	[chover] <mv> V PS 3S IND VFIN @FS-P<  #11->9
+$. #12->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+apostou 	[apostar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+com 	[com] PRP @<ADVL  #4->3
+o 	[o] <artd> DET M S @>N  #5->6
+Bobi 	[Bobi] <hum> <*> PROP M S @P<  #6->4
+um 	[um] <arti> DET M S @>N  #7->8
+cigarro 	[cigarro] N M S @<ACC  #8->3
+que 	[que] <clb> <rel> SPEC M S @ACC>  #9->11
+tinha 	[ter] <aux> V IMPF 3S IND VFIN @FS-N<  #10->8
+chovido 	[chover] <mv> V PCP @ICL-AUX<  #11->10
+$. #12->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+sabia 	[saber] <mv> V IMPF 3S IND VFIN @FS-STA  #3->0
+que 	[que] <clb> KS @SUB  #4->5
+choveu 	[chover] <mv> V PS 3S IND VFIN @FS-<ACC  #5->3
+$. #6->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+sabia 	[saber] <mv> V IMPF 3S IND VFIN @FS-STA  #3->0
+que 	[que] <clb> KS @SUB  #4->5
+tinha 	[ter] <aux> V IMPF 3S IND VFIN @FS-<ACC  #5->3
+chovido 	[chover] <mv> V PCP @ICL-AUX<  #6->5
+$. #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+tinha 	[ter] <mv> V IMPF 3S IND VFIN @FS-STA  #3->0
+a 	[o] <artd> DET F S @>N  #4->5
+intenção 	[intenção] N F S @<ACC  #5->3
+de 	[de] PRP @N<  #6->5
+ladrar 	[ladrar] <mv> V INF @ICL-P<  #7->6
+$. #8->0
+</ß>
+
+
+<ß>
+o 	[o] <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+pretendia 	[pretender] <mv> V IMPF 3S IND VFIN @FS-STA  #3->0
+latir 	[latir] <mv> V INF @ICL-<ACC  #4->3
+$. #5->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+queria 	[querer] <mv> V IMPF 3S IND VFIN @FS-STA  #3->0
+que 	[que] <clb> KS @SUB  #4->7
+o 	[o] <artd> DET M S @>N  #5->6
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #6->7
+ladrasse 	[ladrar] <mv> V IMPF 3S SUBJ VFIN @FS-<ACC  #7->3
+$. #8->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+queria 	[querer] <mv> V IMPF 3S IND VFIN @FS-STA  #3->0
+que 	[que] <clb> KS @SUB  #4->7
+o 	[o] <artd> DET M S @>N  #5->6
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #6->7
+ladrasse 	[ladrar] <mv> V IMPF 3S SUBJ VFIN @FS-<ACC  #7->3
+$. #8->0
+</ß>
+
+
+<ß>
+Todos=os 	[todo=o] <quant> <*> DET M P @>N  #1->2
+gatos 	[gato] N M P @SUBJ>  #2->3
+ladraram 	[ladrar] <mv> V PS/MQP 3P IND VFIN @FS-STA  #3->0
+$. #4->0
+</ß>
+
+
+<ß>
+Cada 	[cada] <*> <quant> DET M S @>N  #1->2
+gato 	[gato] N M S @SUBJ>  #2->3
+latiu 	[latir] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+$. #4->0
+</ß>
+
+
+<ß>
+Todos=os 	[todo=o] <quant> <*> DET M P @>N  #1->2
+gatos 	[gato] N M P @SUBJ>  #2->3
+perseguiram 	[perseguir] <mv> V PS/MQP 3P IND VFIN @FS-STA  #3->0
+algum 	[algum] <quant> DET M S @>N  #4->5
+cão 	[cão] N M S @<ACC  #5->3
+$. #6->0
+</ß>
+
+
+<ß>
+Cada 	[cada] <*> <quant> DET M S @>N  #1->2
+gato 	[gato] N M S @SUBJ>  #2->3
+perseguiu 	[perseguir] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+algum 	[algum] <quant> DET M S @>N  #4->5
+cachorro 	[cachorro] N M S @<ACC  #5->3
+$. #6->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->3
+meu 	[meu] <poss> <1S> DET M S @>N  #2->3
+gato 	[gato] N M S @SUBJ>  #3->4
+ladrou 	[ladrar] <mv> V PS 3S IND VFIN @FS-STA  #4->0
+$. #5->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->3
+meu 	[meu] <poss> <1S> DET M S @>N  #2->3
+gato 	[gato] N M S @SUBJ>  #3->4
+latiu 	[latir] <mv> V PS 3S IND VFIN @FS-STA  #4->0
+$. #5->0
+</ß>
+
+
+<ß>
+Ladrou 	[ladrar] <*> <mv> V PS 3S IND VFIN @FS-STA  #1->0
+$. #2->0
+</ß>
+
+
+<ß>
+Ele 	[ele] <*> PERS M 3S NOM @SUBJ>  #1->2
+latiu 	[latir] <mv> V PS 3S IND VFIN @FS-STA  #2->0
+$. #3->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+gato 	[gato] N M S @SUBJ>  #2->3
+perseguiu- 	[perseguir] <hyfen> <mv> V PS 3S IND VFIN @FS-STA  #3->0
+o 	[ele] PERS M 3S ACC @<ACC  #4->3
+$. #5->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+gato 	[gato] N M S @SUBJ>  #2->3
+perseguiu- 	[perseguir] <hyfen> <mv> V PS 3S IND VFIN @FS-STA  #3->0
+o 	[ele] PERS M 3S ACC @<ACC  #4->3
+$. #5->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+gato 	[gato] N M S @SUBJ>  #2->3
+perseguiu- 	[perseguir] <hyfen> <mv> V PS 3S IND VFIN @FS-STA  #3->0
+se 	[se] <refl> PERS M/F 3S/P DAT @<DAT  #4->3
+$. #5->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+gato 	[gato] N M S @SUBJ>  #2->3
+perseguiu 	[perseguir] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+a 	[a] PRP @<ACC  #4->3
+si 	[se] <refl> PERS M/F 3S/P PIV @P<  #5->4
+mesmo 	[mesmo] <ident> DET M S @N<  #6->5
+$. #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+gato 	[gato] N M S @SUBJ>  #2->3
+perseguiu 	[perseguir] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+um 	[um] <card> NUM M S @<ACC  #4->3
+$. #5->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+gato 	[gato] N M S @SUBJ>  #2->3
+seguiu 	[seguir] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+alguém 	[alguém] SPEC M S @<ACC  #4->3
+$. #5->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+meu 	[meu] <poss> <1S> DET M S @SUBJ>  #2->3
+ladrou 	[ladrar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+$. #4->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+meu 	[meu] <poss> <1S> DET M S @SUBJ>  #2->3
+latiu 	[latir] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+$. #4->0
+</ß>
+
+
+<ß>
+Isso 	[isso] <*> <dem> SPEC M S @SUBJ>  #1->2
+abriu- 	[abrir] <hyfen> <mv> V PS 3S IND VFIN @FS-STA  #2->0
+se 	[se] PERS M 3S ACC @<ACC-PASS  #3->2
+$. #4->0
+</ß>
+
+
+<ß>
+Isso 	[isso] <*> <dem> SPEC M S @SUBJ>  #1->2
+abriu 	[abrir] <mv> V PS 3S IND VFIN @FS-STA  #2->0
+$. #3->0
+</ß>
+
+
+<ß>
+Os 	[o] <*> <artd> DET M P @>N  #1->2
+gatos 	[gato] N M P @SUBJ>  #2->3
+ladram 	[ladrar] <mv> V PR 3P IND VFIN @FS-STA  #3->0
+$. #4->0
+</ß>
+
+
+<ß>
+Os 	[o] <*> <artd> DET M P @>N  #1->2
+gatos 	[gato] N M P @SUBJ>  #2->3
+latem 	[latir] <mv> V PR 3P IND VFIN @FS-STA  #3->0
+$. #4->0
+</ß>
+
+
+<ß>
+Chegou 	[chegar] <*> <mv> V PS 3S IND VFIN @FS-STA  #1->0
+tabaco 	[tabaco] N M S @<SUBJ  #2->1
+$. #3->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+tabaco 	[tabaco] N M S @SUBJ>  #2->3
+chegou 	[chegar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+$. #4->0
+</ß>
+
+
+<ß>
+Alguns 	[algum] <*> <quant> DET M P @SUBJ>  #1->2
+ladram 	[ladrar] <mv> V PR 3P IND VFIN @FS-STA  #2->0
+$. #3->0
+</ß>
+
+
+<ß>
+Alguns 	[algum] <*> <quant> DET M P @SUBJ>  #1->2
+latem 	[latir] <mv> V PR 3P IND VFIN @FS-STA  #2->0
+$. #3->0
+</ß>
+
+
+<ß>
+Alguns 	[algum] <*> <quant> DET M P @SUBJ>  #1->5
+de 	[de] <sam-> PRP @N<  #2->1
+os 	[o] <-sam> <artd> DET M P @>N  #3->4
+gatos 	[gato] N M P @P<  #4->2
+ladram 	[ladrar] <mv> V PR 3P IND VFIN @FS-STA  #5->0
+$. #6->0
+</ß>
+
+
+<ß>
+Alguns 	[algum] <*> <quant> DET M P @SUBJ>  #1->5
+de 	[de] <sam-> PRP @N<  #2->1
+os 	[o] <-sam> <artd> DET M P @>N  #3->4
+gatos 	[gato] N M P @P<  #4->2
+latem 	[latir] <mv> V PR 3P IND VFIN @FS-STA  #5->0
+$. #6->0
+</ß>
+
+
+<ß>
+Nenhum 	[nenhum] <*> <quant> DET M S @>N  #1->2
+gato 	[gato] N M S @SUBJ>  #2->3
+ladrou 	[ladrar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+$. #4->0
+</ß>
+
+
+<ß>
+Nenhum 	[nenhum] <*> <quant> DET M S @>N  #1->2
+gato 	[gato] N M S @SUBJ>  #2->3
+latiu 	[latir] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+$. #4->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->3
+ladrou 	[ladrar] <mv> V PS 3S IND VFIN @FS-QUE  #3->0
+$? #4->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->3
+latiu 	[latir] <mv> V PS 3S IND VFIN @FS-QUE  #3->0
+$? #4->0
+</ß>
+
+
+<ß>
+Que 	[que] <clb> <*> <interr> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->3
+ladrou 	[ladrar] <mv> V PS 3S IND VFIN @FS-QUE  #3->0
+$? #4->0
+</ß>
+
+
+<ß>
+Que 	[que] <clb> <*> <interr> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->3
+latiu 	[latir] <mv> V PS 3S IND VFIN @FS-QUE  #3->0
+$? #4->0
+</ß>
+
+
+<ß>
+Ladrou 	[ladrar] <*> <mv> V PS 3S IND VFIN @FS-QUE  #1->0
+o 	[o] <artd> DET M S @>N  #2->3
+cão 	[cão] N M S @<SUBJ  #3->1
+de 	[de] PRP @N<  #4->3
+quem 	[quem] <interr> SPEC M/F S/P @P<  #5->4
+$? #6->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->5
+de 	[de] PRP @N<  #3->2
+quem 	[quem] <interr> SPEC M/F S/P @P<  #4->3
+latiu 	[latir] <mv> V PS 3S IND VFIN @FS-QUE  #5->0
+$? #6->0
+</ß>
+
+
+<ß>
+Persegue 	[perseguir] <*> <mv> V PR 3S IND VFIN @FS-STA  #1->0
+o 	[o] <artd> DET M S @>N  #2->3
+Bobi 	[Bobi] <hum> <*> PROP M S @<ACC  #3->1
+$! #4->0
+</ß>
+
+
+<ß>
+Segue 	[seguir] <*> <mv> V PR 3S IND VFIN @FS-STA  #1->0
+o 	[o] <artd> DET M S @>N  #2->3
+Bobi 	[Bobi] <hum> <*> PROP M S @<ACC  #3->1
+$! #4->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+perguntou- 	[perguntar] <hyfen> <mv> V PS 3S IND VFIN @FS-STA  #3->0
+se 	[se] <refl> PERS M/F 3S/P DAT @<DAT  #4->3
+que 	[que] <clb> <interr> DET M S @>N  #5->6
+cão 	[cão] N M S @SUBJ>  #6->7
+ladrou 	[ladrar] <mv> V PS 3S IND VFIN @FS-<ACC  #7->3
+$. #8->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+perguntou- 	[perguntar] <hyfen> <mv> V PS 3S IND VFIN @FS-STA  #3->0
+se 	[se] <refl> PERS M/F 3S/P DAT @<DAT  #4->3
+que 	[que] <clb> <interr> DET M S @>N  #5->6
+cachorro 	[cachorro] N M S @SUBJ>  #6->7
+tinha 	[ter] <aux> V IMPF 3S IND VFIN @FS-<ACC  #7->3
+latido 	[latir] <mv> V PCP @ICL-AUX<  #8->7
+$. #9->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+perguntou- 	[perguntar] <hyfen> <mv> V PS 3S IND VFIN @FS-STA  #3->0
+se 	[se] <refl> PERS M/F 3S/P DAT @<DAT  #4->3
+se 	[se] <clb> KS @SUB  #5->8
+o 	[o] <artd> DET M S @>N  #6->7
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #7->8
+ladrou 	[ladrar] <mv> V PS 3S IND VFIN @FS-<ACC  #8->3
+$. #9->0
+</ß>
+
+
+<ß>
+Atlas 	[Atlas] <hum> <*> PROP M/F S @SUBJ>  #1->2
+perguntou- 	[perguntar] <hyfen> <mv> V PS 3S IND VFIN @FS-STA  #2->0
+se 	[se] <refl> PERS M/F 3S/P DAT @<DAT  #3->2
+se 	[se] <clb> KS @SUB  #4->7
+o 	[o] <artd> DET M S @>N  #5->6
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #6->7
+tinha 	[ter] <aux> V IMPF 3S IND VFIN @FS-<ACC  #7->2
+latido 	[latir] <mv> V PCP @ICL-AUX<  #8->7
+$. #9->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->7
+que 	[que] <clb> <rel> SPEC M S @ACC>  #3->6
+o 	[o] <artd> DET M S @>N  #4->5
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #5->6
+perseguiu 	[perseguir] <mv> V PS 3S IND VFIN @FS-N<  #6->2
+ladrou 	[ladrar] <mv> V PS 3S IND VFIN @FS-STA  #7->0
+$. #8->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->7
+que 	[que] <clb> <rel> SPEC M S @ACC>  #3->6
+o 	[o] <artd> DET M S @>N  #4->5
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #5->6
+perseguiu 	[perseguir] <mv> V PS 3S IND VFIN @FS-N<  #6->2
+latiu 	[latir] <mv> V PS 3S IND VFIN @FS-STA  #7->0
+$. #8->0
+</ß>
+
+
+<ß>
+O 	[o] <clb> <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->5
+a 	[a] PRP @N<  #3->2
+perseguir 	[perseguir] <mv> V INF 3S @ICL-P<  #4->3
+está 	[estar] <aux> V PR 3S IND VFIN @FS-STA  #5->0
+a 	[a] PRP @PRT-AUX<  #6->5
+ladrar 	[ladrar] <mv> V INF @ICL-AUX<  #7->5
+$. #8->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->4
+que 	[que] <clb> <rel> SPEC M S @ACC>  #3->6
+temos 	[ter] <aux> V PR 1P IND VFIN @FS-N<  #4->0
+que 	[que] <clb> KS @PRT-AUX<  #5->4
+seguir 	[seguir] <mv> V INF @ICL-AUX<  #6->4
+está 	[estar] <aux> V PR 3S IND VFIN @FS-STA  #7->0
+latindo 	[latir] <mv> V GER @ICL-AUX<  #8->7
+$. #9->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->3
+foi 	[ser] <aux> V PS 3S IND VFIN @FS-STA  #3->0
+perseguido 	[perseguir] <mv> V PCP M S @ICL-AUX<  #4->3
+por 	[por] <sam-> PRP @<PASS  #5->4
+o 	[o] <-sam> <artd> DET M S @>N  #6->7
+Bobi 	[Bobi] <hum> <*> PROP M S @P<  #7->5
+$. #8->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->3
+foi 	[ser] <aux> V PS 3S IND VFIN @FS-STA  #3->0
+seguido 	[seguir] <mv> V PCP M S @ICL-AUX<  #4->3
+por 	[por] <sam-> PRP @<PASS  #5->4
+o 	[o] <-sam> <artd> DET M S @>N  #6->7
+Bobi 	[Bobi] <hum> <*> PROP M S @P<  #7->5
+$. #8->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->7
+perseguido 	[perseguir] <mv> V PCP M S @ICL-N<  #3->2
+por 	[por] <sam-> PRP @<PASS  #4->3
+o 	[o] <-sam> <artd> DET M S @>N  #5->6
+Bobi 	[Bobi] <hum> <*> PROP M S @P<  #6->4
+ladrou 	[ladrar] <mv> V PS 3S IND VFIN @FS-STA  #7->0
+$. #8->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->7
+seguido 	[seguir] <mv> V PCP M S @ICL-N<  #3->2
+por 	[por] <sam-> PRP @<PASS  #4->3
+o 	[o] <-sam> <artd> DET M S @>N  #5->6
+Bobi 	[Bobi] <hum> <*> PROP M S @P<  #6->4
+latiu 	[latir] <mv> V PS 3S IND VFIN @FS-STA  #7->0
+$. #8->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->3
+está 	[estar] <aux> V PR 3S IND VFIN @FS-STA  #3->0
+a 	[a] PRP @PRT-AUX<  #4->3
+ladrar 	[ladrar] <mv> V INF @ICL-AUX<  #5->3
+$. #6->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->3
+está 	[estar] <aux> V PR 3S IND VFIN @FS-STA  #3->0
+latindo 	[latir] <mv> V GER @ICL-AUX<  #4->3
+$. #5->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->3
+ladrou 	[ladrar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+$. #4->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->3
+tinha 	[ter] <aux> V IMPF 3S IND VFIN @FS-STA  #3->0
+latido 	[latir] <mv> V PCP @ICL-AUX<  #4->3
+$. #5->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->3
+tem 	[ter] <aux> V PR 3S IND VFIN @FS-STA  #3->0
+estado 	[estar] <aux> V PCP @ICL-AUX<  #4->3
+a 	[a] PRP @PRT-AUX<  #5->4
+ladrar 	[ladrar] <mv> V INF @ICL-AUX<  #6->4
+$. #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->3
+está 	[estar] <aux> V PR 3S IND VFIN @FS-STA  #3->0
+latindo 	[latir] <mv> V GER @ICL-AUX<  #4->3
+$. #5->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->3
+tinha 	[ter] <aux> V IMPF 3S IND VFIN @FS-STA  #3->0
+estado 	[estar] <aux> V PCP @ICL-AUX<  #4->3
+a 	[a] PRP @PRT-AUX<  #5->4
+ladrar 	[ladrar] <mv> V INF @ICL-AUX<  #6->4
+$. #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->3
+tinha 	[ter] <aux> V IMPF 3S IND VFIN @FS-STA  #3->0
+latido 	[latir] <mv> V PCP @ICL-AUX<  #4->3
+$. #5->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->3
+ladrará 	[ladrar] <mv> V FUT 3S IND VFIN @FS-STA  #3->0
+$. #4->0
+</ß>
+
+
+<ß>
+o 	[o] <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->3
+latirá 	[latir] <mv> V FUT 3S IND VFIN @FS-STA  #3->0
+$. #4->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->3
+vai 	[ir] <aux> V PR 3S IND VFIN @FS-STA  #3->0
+ladrar 	[ladrar] <mv> V INF @ICL-AUX<  #4->3
+$. #5->0
+</ß>
+
+
+<ß>
+o 	[o] <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->3
+vai 	[ir] <aux> V PR 3S IND VFIN @FS-STA  #3->0
+latir 	[latir] <mv> V INF @ICL-AUX<  #4->3
+$. #5->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->3
+conseguiu 	[conseguir] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+ladrar 	[ladrar] <mv> V INF @ICL-<ACC  #4->3
+$. #5->0
+</ß>
+
+
+<ß>
+o 	[o] <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->3
+podia 	[poder] <aux> V IMPF 3S IND VFIN @FS-STA  #3->0
+latir 	[latir] <mv> V INF @ICL-AUX<  #4->3
+$. #5->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->4
+não 	[não] <setop> ADV @ADVL>  #3->4
+conseguiu 	[conseguir] <mv> V PS 3S IND VFIN @FS-STA  #4->0
+ladrar 	[ladrar] <mv> V INF @ICL-<ACC  #5->4
+$. #6->0
+</ß>
+
+
+<ß>
+o 	[o] <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->4
+não 	[não] <setop> ADV @ADVL>  #3->5
+podia 	[poder] <aux> V IMPF 3S IND VFIN @FS-STA  #4->0
+latir 	[latir] <mv> V INF @ICL-AUX<  #5->4
+$. #6->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->4
+velho 	[velho] ADJ M S @N<  #3->2
+ladrou 	[ladrar] <mv> V PS 3S IND VFIN @FS-STA  #4->0
+$. #5->0
+</ß>
+
+
+<ß>
+o 	[o] <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->4
+velho 	[velho] ADJ M S @N<  #3->2
+latiu 	[latir] <mv> V PS 3S IND VFIN @FS-STA  #4->0
+$. #5->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->3
+ladrou 	[ladrar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+baixinho 	[baixinho] ADV @<ADVL  #4->3
+$. #5->0
+</ß>
+
+
+<ß>
+o 	[o] <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->3
+latiu 	[latir] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+baixinho 	[baixinho] ADV @<ADVL  #4->3
+$. #5->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->4
+provavelmente 	[provavelmente] ADV @ADVL>  #3->4
+ladrou 	[ladrar] <mv> V PS 3S IND VFIN @FS-STA  #4->0
+$. #5->0
+</ß>
+
+
+<ß>
+o 	[o] <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->4
+provavelmente 	[provavelmente] ADV @ADVL>  #3->4
+latiu 	[latir] <mv> V PS 3S IND VFIN @FS-STA  #4->0
+$. #5->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->3
+ladrou 	[ladrar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+em 	[em] <sam-> PRP @<ADVL  #4->3
+o 	[o] <-sam> <artd> DET M S @>N  #5->6
+jardim 	[jardim] N M S @P<  #6->4
+$. #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->3
+ladrou 	[ladrar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+em 	[em] <sam-> PRP @<ADVL  #4->3
+o 	[o] <-sam> <artd> DET M S @>N  #5->6
+jardim 	[jardim] N M S @P<  #6->4
+$. #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->4
+agora 	[agora] <atemp> <kc> ADV @ADVL>  #3->4
+ladra 	[ladrar] <mv> V PR 3S IND VFIN @FS-STA  #4->0
+$. #5->0
+</ß>
+
+
+<ß>
+o 	[o] <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->3
+está 	[estar] <aux> V PR 3S IND VFIN @FS-STA  #3->0
+latindo 	[latir] <clb> <mv> V GER @ICL-AUX<  #4->3
+agora 	[agora] <atemp> <kc> ADV @<ADVL  #5->4
+$. #6->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->6
+de 	[de] <sam-> PRP @N<  #3->2
+o 	[o] <-sam> <artd> DET M S @>N  #4->5
+jardim 	[jardim] N M S @P<  #5->3
+ladrou 	[ladrar] <mv> V PS 3S IND VFIN @FS-STA  #6->0
+$. #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->6
+de 	[de] <sam-> PRP @N<  #3->2
+o 	[o] <-sam> <artd> DET M S @>N  #4->5
+jardim 	[jardim] N M S @P<  #5->3
+latiu 	[latir] <mv> V PS 3S IND VFIN @FS-STA  #6->0
+$. #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->9
+de 	[de] <sam-> PRP @N<  #3->2
+o 	[o] <-sam> <artd> DET M S @>N  #4->5
+jardim 	[jardim] N M S @P<  #5->3
+de 	[de] <sam-> PRP @N<  #6->5
+o 	[o] <-sam> <artd> DET M S @>N  #7->8
+tabaco 	[tabaco] N M S @P<  #8->6
+ladrou 	[ladrar] <mv> V PS 3S IND VFIN @FS-STA  #9->0
+$. #10->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->8
+de 	[de] <sam-> PRP @N<  #3->2
+o 	[o] <-sam> <artd> DET M S @>N  #4->5
+jardim 	[jardim] N M S @P<  #5->3
+de 	[de] PRP @N<  #6->5
+tabaco 	[tabaco] N M S @P<  #7->6
+latiu 	[latir] <mv> V PS 3S IND VFIN @FS-STA  #8->0
+$. #9->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+gato 	[gato] N M S @SUBJ>  #2->3
+é 	[ser] <mv> V PR 3S IND VFIN @FS-STA  #3->0
+velho 	[velho] <jh> ADJ M S @<SC  #4->3
+$. #5->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+gato 	[gato] N M S @SUBJ>  #2->3
+está 	[estar] <mv> V PR 3S IND VFIN @FS-STA  #3->0
+velho 	[velho] <jh> ADJ M S @<SC  #4->3
+$. #5->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+gato 	[gato] N M S @SUBJ>  #2->3
+está 	[estar] <mv> V PR 3S IND VFIN @FS-STA  #3->0
+em 	[em] <sam-> PRP @<SA  #4->3
+o 	[o] <-sam> <artd> DET M S @>N  #5->6
+jardim 	[jardim] N M S @P<  #6->4
+$. #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+gato 	[gato] N M S @SUBJ>  #2->3
+está 	[estar] <mv> V PR 3S IND VFIN @FS-STA  #3->0
+em 	[em] <sam-> PRP @<SA  #4->3
+o 	[o] <-sam> <artd> DET M S @>N  #5->6
+jardim 	[jardim] N M S @P<  #6->4
+$. #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->7
+que 	[que] <clb> <rel> SPEC M S @SUBJ>  #3->4
+está 	[estar] <aux> V PR 3S IND VFIN @FS-N<  #4->2
+a 	[a] PRP @PRT-AUX<  #5->4
+ladrar 	[ladrar] <mv> V INF @ICL-AUX<  #6->4
+perseguiu 	[perseguir] <mv> V PS 3S IND VFIN @FS-STA  #7->0
+o 	[o] <artd> DET M S @>N  #8->9
+Bobi 	[Bobi] <hum> <*> PROP M S @<ACC  #9->7
+$. #10->0
+</ß>
+
+
+<ß>
+o 	[o] <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->4
+latidor 	[latidor] <DERS> N M S @N<  #3->2
+perseguiu 	[perseguir] <mv> V PS 3S IND VFIN @FS-STA  #4->0
+o 	[o] <artd> DET M S @>N  #5->6
+Bobi 	[Bobi] <hum> <*> PROP M S @<ACC  #6->4
+$. #7->0
+</ß>
+
+
+<ß>
+Os 	[o] <*> <artd> DET M P @>N  #1->2
+cães 	[cão] N M P @SUBJ>  #2->4
+perseguidos 	[perseguir] V PCP M P @N<  #3->2
+ladram 	[ladrar] <mv> V PR 3P IND VFIN @FS-STA  #4->0
+$. #5->0
+</ß>
+
+
+<ß>
+Cachorros 	[cachorro] <*> N M P @SUBJ>  #1->3
+perseguidos 	[perseguir] V PCP M P @N<  #2->1
+latem 	[latir] <mv> V PR 3P IND VFIN @FS-STA  #3->0
+$. #4->0
+</ß>
+
+
+<ß>
+Perseguir 	[perseguir] <*> <mv> V INF @ICL-SUBJ>  #1->4
+o 	[o] <artd> DET M S @>N  #2->3
+gato 	[gato] N M S @<ACC  #3->1
+está 	[estar] <mv> V PR 3S IND VFIN @FS-STA  #4->0
+batido 	[bater] <jh> V PCP M S @<SC  #5->4
+$. #6->0
+</ß>
+
+
+<ß>
+Perseguir 	[perseguir] <*> <mv> V INF @ICL-SUBJ>  #1->4
+o 	[o] <artd> DET M S @>N  #2->3
+gato 	[gato] N M S @<ACC  #3->1
+é 	[ser] <mv> V PR 3S IND VFIN @FS-STA  #4->0
+bobagem 	[bobagem] N F S @<SC  #5->4
+$. #6->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+gato 	[gato] N M S @SUBJ>  #2->3
+perseguir 	[perseguir] <mv> V INF 3S @ICL-SUBJ>  #3->6
+o 	[o] <artd> DET M S @>N  #4->5
+Bobi 	[Bobi] <hum> <*> PROP M S @<ACC  #5->3
+está 	[estar] <mv> V PR 3S IND VFIN @FS-STA  #6->0
+batido 	[bater] <jh> V PCP M S @<SC  #7->6
+$. #8->0
+</ß>
+
+
+<ß>
+Que 	[que] <clb> <*> KS @SUB  #1->4
+o 	[o] <artd> DET M S @>N  #2->3
+gato 	[gato] N M S @SUBJ>  #3->4
+persiga 	[perseguir] <mv> V PR 3S SUBJ VFIN @FS-SUBJ>  #4->7
+o 	[o] <artd> DET M S @>N  #5->6
+Bobi 	[Bobi] <hum> <*> PROP M S @<ACC  #6->4
+é 	[ser] <mv> V PR 3S IND VFIN @FS-STA  #7->0
+bobagem 	[bobagem] N F S @<SC  #8->7
+$. #9->0
+</ß>
+
+
+<ß>
+Os 	[o] <*> <artd> DET M P @>N  #1->2
+cães 	[cão] N M P @SUBJ>  #2->3
+perseguem 	[perseguir] <mv> V PR 3P IND VFIN @FS-STA  #3->0
+tudo=o=que 	[tudo=o=que] <clb> <quant> <rel> SPEC M S @SUBJ>  #4->5
+ladra 	[ladrar] <mv> V PR 3S IND VFIN @FS-<ACC  #5->3
+$. #6->0
+</ß>
+
+
+<ß>
+Os 	[o] <*> <artd> DET M P @>N  #1->2
+cães 	[cão] N M P @SUBJ>  #2->3
+perseguem 	[perseguir] <mv> V PR 3P IND VFIN @FS-STA  #3->0
+tudo=o=que 	[tudo=o=que] <clb> <quant> <rel> SPEC M S @SUBJ>  #4->5
+ladra 	[ladrar] <mv> V PR 3S IND VFIN @FS-<ACC  #5->3
+$. #6->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->3
+ladrou 	[ladrar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+todos=os=dias 	[todos=os=dias] ADV @<ADVL  #4->3
+$. #5->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->3
+latiu 	[latir] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+todos=os=dias 	[todos=os=dias] ADV @<ADVL  #4->3
+$. #5->0
+</ß>
+
+
+<ß>
+Quando 	[quando] <clb> <*> <interr> ADV @ADVL>  #1->5
+é=que 	[é=que] <setop> <foc> ADV @<FOC  #2->5
+o 	[o] <artd> DET M S @>N  #3->4
+cão 	[cão] N M S @SUBJ>  #4->5
+ladrou 	[ladrar] <mv> V PS 3S IND VFIN @FS-QUE  #5->0
+$? #6->0
+</ß>
+
+
+<ß>
+Quando 	[quando] <clb> <*> <interr> ADV @ADVL>  #1->4
+o 	[o] <artd> DET M S @>N  #2->3
+cachorro 	[cachorro] N M S @SUBJ>  #3->4
+latiu 	[latir] <mv> V PS 3S IND VFIN @FS-QUE  #4->0
+$? #5->0
+</ß>
+
+
+<ß>
+Três 	[três] <*> <card> NUM M/F P @SUBJ>  #1->5
+de 	[de] <sam-> PRP @N<  #2->1
+os 	[o] <-sam> <artd> DET M P @>N  #3->4
+cães 	[cão] N M P @P<  #4->2
+ladram 	[ladrar] <mv> V PR 3P IND VFIN @FS-STA  #5->0
+$. #6->0
+</ß>
+
+
+<ß>
+Três 	[três] <*> <card> NUM M/F P @SUBJ>  #1->5
+de 	[de] <sam-> PRP @N<  #2->1
+os 	[o] <-sam> <artd> DET M P @>N  #3->4
+cães 	[cão] N M P @P<  #4->2
+latem 	[latir] <mv> V PR 3P IND VFIN @FS-STA  #5->0
+$. #6->0
+</ß>
+
+
+<ß>
+Três 	[três] <*> <card> NUM M/F P @SUBJ>  #1->2
+ladram 	[ladrar] <mv> V PR 3P IND VFIN @FS-STA  #2->0
+$. #3->0
+</ß>
+
+
+<ß>
+Três 	[três] <*> <card> NUM M/F P @SUBJ>  #1->2
+ladram 	[ladrar] <mv> V PR 3P IND VFIN @FS-STA  #2->0
+$. #3->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->6
+de 	[de] <sam-> PRP @N<  #3->2
+o 	[o] <-sam> <artd> DET M S @>N  #4->5
+Bobi 	[Bobi] <hum> <*> PROP M S @P<  #5->3
+ladra 	[ladrar] <mv> V PR 3S IND VFIN @FS-STA  #6->0
+$. #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->6
+de 	[de] <sam-> PRP @N<  #3->2
+o 	[o] <-sam> <artd> DET M S @>N  #4->5
+Bobi 	[Bobi] <hum> <*> PROP M S @P<  #5->3
+late 	[latir] <mv> V PR 3S IND VFIN @FS-STA  #6->0
+$. #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <dem> DET M S @SUBJ>  #1->5
+de 	[de] <sam-> PRP @N<  #2->1
+o 	[o] <-sam> <artd> DET M S @>N  #3->4
+Bobi 	[Bobi] <hum> <*> PROP M S @P<  #4->2
+ladra 	[ladrar] <mv> V PR 3S IND VFIN @FS-STA  #5->0
+$. #6->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <dem> DET M S @SUBJ>  #1->5
+de 	[de] <sam-> PRP @N<  #2->1
+o 	[o] <-sam> <artd> DET M S @>N  #3->4
+Bobi 	[Bobi] <hum> <*> PROP M S @P<  #4->2
+late 	[latir] <mv> V PR 3S IND VFIN @FS-STA  #5->0
+$. #6->0
+</ß>
+
+
+<ß>
+Ladram 	[ladrar] <*> <mv> V PR 3P IND VFIN @FS-STA  #1->0
+vinte=e=três 	[vinte=e=três] <card> NUM M P @>N  #2->3
+cães 	[cão] N M P @<SUBJ  #3->1
+$. #4->0
+</ß>
+
+
+<ß>
+Vinte=e=três 	[vinte=e=três] <card> <*> NUM M P @>N  #1->2
+cães 	[cão] N M P @SUBJ>  #2->3
+latem 	[latir] <mv> V PR 3P IND VFIN @FS-STA  #3->0
+$. #4->0
+</ß>
+
+
+<ß>
+Ladram 	[ladrar] <*> <mv> V PR 3P IND VFIN @FS-STA  #1->0
+duzentos=e=vinte 	[duzentos=e=vinte] <card> NUM M P @>N  #2->3
+cães 	[cão] N M P @<SUBJ  #3->1
+$. #4->0
+</ß>
+
+
+<ß>
+Duzentos=e=vinte 	[duzentos=e=vinte] <card> <*> NUM M P @>N  #1->2
+cães 	[cão] N M P @SUBJ>  #2->3
+latem 	[latir] <mv> V PR 3P IND VFIN @FS-STA  #3->0
+$. #4->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+chegou 	[chegar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+de 	[de] PRP @<ADVL  #4->3
+carro 	[carro] N M S @P<  #5->4
+$. #6->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+chegou 	[chegar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+de 	[de] PRP @<ADVL  #4->3
+carro 	[carro] N M S @P<  #5->4
+$. #6->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->4
+não 	[não] <setop> ADV @ADVL>  #3->6
+parou 	[parar] <aux> V PS 3S IND VFIN @FS-STA  #4->0
+de 	[de] PRP @PRT-AUX<  #5->4
+ladrar 	[ladrar] <mv> V INF @ICL-AUX<  #6->4
+$. #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+continuava 	[continuar] <aux> V IMPF 3S IND VFIN @FS-STA  #3->0
+a 	[a] PRP @PRT-AUX<  #4->3
+latir 	[latir] <mv> V INF @ICL-AUX<  #5->3
+$. #6->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #2->3
+enfiou 	[enfiar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+o 	[o] <artd> DET M S @>N  #4->5
+gato 	[gato] N M S @<ACC  #5->3
+a 	[a] <sam-> PRP @<ADVL  #6->3
+a 	[o] <-sam> <artd> DET F S @>N  #7->8
+força 	[força] N F S @P<  #8->6
+$. #9->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #2->3
+enfiou 	[enfiar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+o 	[o] <artd> DET M S @>N  #4->5
+gato 	[gato] N M S @<ACC  #5->3
+a 	[a] <sam-> PRP @<ADVL  #6->3
+a 	[o] <-sam> <artd> DET F S @>N  #7->8
+força 	[força] N F S @P<  #8->6
+$. #9->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #2->3
+enfiou 	[enfiar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+o 	[o] <artd> DET M S @>N  #4->5
+gato 	[gato] N M S @<ACC  #5->3
+a 	[a] <sam-> PRP @<ADVL  #6->3
+a 	[o] <-sam> <artd> DET F S @>N  #7->8
+força 	[força] N F S @P<  #8->6
+$. #9->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #2->3
+enfiou 	[enfiar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+o 	[o] <artd> DET M S @>N  #4->5
+gato 	[gato] N M S @<ACC  #5->3
+a 	[a] <sam-> PRP @<ADVL  #6->3
+a 	[o] <-sam> <artd> DET F S @>N  #7->8
+força 	[força] N F S @P<  #8->6
+$. #9->0
+</ß>
+
+
+<ß>
+A 	[o] <*> <artd> DET F S @>N  #1->2
+foto 	[foto] N F S @SUBJ>  #2->6
+de 	[de] <sam-> PRP @N<  #3->2
+o 	[o] <-sam> <artd> DET M S @>N  #4->5
+Atlas 	[Atlas] <hum> <*> PROP M S @P<  #5->3
+chegou 	[chegar] <mv> V PS 3S IND VFIN @FS-STA  #6->0
+$. #7->0
+</ß>
+
+
+<ß>
+A 	[o] <*> <artd> DET F S @>N  #1->2
+foto 	[foto] N F S @SUBJ>  #2->6
+de 	[de] <sam-> PRP @N<  #3->2
+o 	[o] <-sam> <artd> DET M S @>N  #4->5
+Atlas 	[Atlas] <hum> <*> PROP M S @P<  #5->3
+chegou 	[chegar] <mv> V PS 3S IND VFIN @FS-STA  #6->0
+$. #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+limpou 	[limpar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+a 	[o] <artd> DET F S @>N  #4->5
+mesa 	[mesa] N F S @<ACC  #5->3
+completamente 	[completamente] ADV @<ADVL  #6->3
+$. #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+limpou 	[limpar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+a 	[o] <artd> DET F S @>N  #4->5
+mesa 	[mesa] N F S @<ACC  #5->3
+completamente 	[completamente] ADV @<ADVL  #6->3
+$. #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+pôs 	[pôr] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+o 	[o] <artd> DET M S @>N  #4->5
+Bobi 	[Bobi] <hum> <*> PROP M S @<ACC  #5->3
+em 	[em] <sam-> PRP @<OA  #6->3
+o 	[o] <-sam> <artd> DET M S @>N  #7->8
+jardim 	[jardim] N M S @P<  #8->6
+$. #9->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+pôs 	[pôr] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+o 	[o] <artd> DET M S @>N  #4->5
+Bobi 	[Bobi] <hum> <*> PROP M S @<ACC  #5->3
+em 	[em] <sam-> PRP @<OA  #6->3
+o 	[o] <-sam> <artd> DET M S @>N  #7->8
+jardim 	[jardim] N M S @P<  #8->6
+$. #9->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->3
+vai 	[ir] <aux> V PR 3S IND VFIN @FS-STA  #3->0
+ladrar 	[ladrar] <mv> V INF @ICL-AUX<  #4->3
+se 	[se] <clb> KS @SUB  #5->8
+o 	[o] <artd> DET M S @>N  #6->7
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #7->8
+chegar 	[chegar] <mv> V FUT 3S SUBJ VFIN @FS-<ADVL  #8->4
+$. #9->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->3
+vai 	[ir] <aux> V PR 3S IND VFIN @FS-STA  #3->0
+ladrar 	[ladrar] <mv> V INF @ICL-AUX<  #4->3
+se 	[se] <clb> KS @SUB  #5->8
+o 	[o] <artd> DET M S @>N  #6->7
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #7->8
+chegar 	[chegar] <mv> V FUT 3S SUBJ VFIN @FS-<ADVL  #8->4
+$. #9->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->6
+e 	[e] <co-subj> KC @CO  #3->6
+o 	[o] <artd> DET M S @>N  #4->5
+Bobi 	[Bobi] <cjt> <hum> <*> PROP M S @SUBJ>  #5->6
+chegaram 	[chegar] <cjt-head> <mv> V PS/MQP 3P IND VFIN @FS-STA  #6->0
+$. #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->6
+e 	[e] <co-subj> KC @CO  #3->6
+o 	[o] <artd> DET M S @>N  #4->5
+Bobi 	[Bobi] <cjt> <hum> <*> PROP M S @SUBJ>  #5->6
+chegaram 	[chegar] <cjt-head> <mv> V PS/MQP 3P IND VFIN @FS-STA  #6->0
+$. #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <cjt-head> <hum> <*> PROP M S @SUBJ>  #2->9
+$, #3->0
+o 	[o] <artd> DET M S @>N  #4->5
+Bobi 	[Bobi] <cjt> <hum> <*> PROP M S @SUBJ>  #5->2
+e 	[e] <co-subj> KC @CO  #6->9
+o 	[o] <artd> DET M S @>N  #7->8
+cão 	[cão] <cjt> N M S @SUBJ>  #8->9
+chegaram 	[chegar] <cjt-head> <mv> V PS/MQP 3P IND VFIN @FS-STA  #9->0
+$. #10->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <cjt-head> <hum> <*> PROP M S @SUBJ>  #2->9
+$, #3->0
+o 	[o] <artd> DET M S @>N  #4->5
+Bobi 	[Bobi] <cjt> <hum> <*> PROP M S @SUBJ>  #5->2
+e 	[e] <co-subj> KC @CO  #6->9
+o 	[o] <artd> DET M S @>N  #7->8
+cachorro 	[cachorro] <cjt> N M S @SUBJ>  #8->9
+chegaram 	[chegar] <cjt-head> <mv> V PS/MQP 3P IND VFIN @FS-STA  #9->0
+$. #10->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->3
+chegou 	[chegar] <cjt-head> <vpheadcjt> <mv> V PS 3S IND VFIN @FS-STA  #3->0
+e 	[e] <co-fin> <co-vp> <co-fin> KC @CO  #4->3
+ladrou 	[ladrar] <vpcjt> <cjt> <mv> <nosubj-safe> V PS 3S IND VFIN @FS-STA  #5->3
+$. #6->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->3
+chegou 	[chegar] <cjt-head> <vpheadcjt> <mv> V PS 3S IND VFIN @FS-STA  #3->0
+e 	[e] <co-fin> <co-vp> <co-fin> KC @CO  #4->3
+latiu 	[latir] <vpcjt> <cjt> <mv> <nosubj-safe> V PS 3S IND VFIN @FS-STA  #5->3
+$. #6->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->3
+chegou 	[chegar] <cjt-head> <mv> V PS 3S IND VFIN @FS-STA  #3->0
+$, #4->0
+e 	[e] <clb> KC @CO  #5->3
+o 	[o] <artd> DET M S @>N  #6->7
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #7->8
+ladrou 	[ladrar] <cjt> <mv> V PS 3S IND VFIN @FS-STA  #8->3
+$. #9->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->3
+chegou 	[chegar] <cjt-head> <mv> V PS 3S IND VFIN @FS-STA  #3->0
+$, #4->0
+e 	[e] <clb> KC @CO  #5->3
+o 	[o] <artd> DET M S @>N  #6->7
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #7->8
+latiu 	[latir] <cjt> <mv> V PS 3S IND VFIN @FS-STA  #8->3
+$. #9->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->3
+ladrou 	[ladrar] <cjt-head> <mv> V PS 3S IND VFIN @FS-QUE  #3->0
+$, #4->0
+não 	[não] <setop> ADV @ADVL>  #5->6
+ladrou 	[ladrar] <nosubj> <cjt> <mv> V PS 3S IND VFIN @FS-QUE  #6->3
+$? #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->3
+latiu 	[latir] <cjt-head> <mv> V PS 3S IND VFIN @FS-QUE  #3->0
+$, #4->0
+não 	[não] <setop> ADV @ADVL>  #5->6
+latiu 	[latir] <nosubj> <cjt> <mv> V PS 3S IND VFIN @FS-QUE  #6->3
+$? #7->0
+</ß>
+
+
+<ß>
+É 	[ser] <*> <mv> V PR 3S IND VFIN @FS-STA  #1->0
+óvio 	[óvio] <heur> <jh> ADJ M S @<SC  #2->1
+que 	[que] <clb> KS @SUB  #3->6
+o 	[o] <artd> DET M S @>N  #4->5
+cão 	[cão] N M S @SUBJ>  #5->6
+ladrou 	[ladrar] <mv> V PS 3S IND VFIN @FS-<SUBJ  #6->1
+$. #7->0
+</ß>
+
+
+<ß>
+É 	[ser] <*> <mv> V PR 3S IND VFIN @FS-STA  #1->0
+óbvio 	[óbvio] ADJ M S @<SC  #2->1
+que 	[que] <clb> KS @SUB  #3->6
+o 	[o] <artd> DET M S @>N  #4->5
+cachorro 	[cachorro] N M S @SUBJ>  #5->6
+latiu 	[latir] <mv> V PS 3S IND VFIN @FS-<SUBJ  #6->1
+$. #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+prometeu 	[prometer] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+a 	[a] <sam-> PRP @<PIV  #4->3
+o 	[o] <-sam> <artd> DET M S @>N  #5->6
+Bobi 	[Bobi] <hum> <*> PROP M S @P<  #6->4
+ladrar 	[ladrar] <mv> V INF @ICL-<ACC  #7->3
+$. #8->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+prometeu 	[prometer] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+a 	[a] <sam-> PRP @<PIV  #4->3
+o 	[o] <-sam> <artd> DET M S @>N  #5->6
+Bobi 	[Bobi] <hum> <*> PROP M S @P<  #6->4
+latir 	[latir] <mv> V INF @ICL-<ACC  #7->3
+$. #8->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+parece 	[parecer] <aux> V PR 3S IND VFIN @FS-STA  #3->0
+ladrar 	[ladrar] <mv> V INF @ICL-AUX<  #4->3
+$. #5->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->6
+parece 	[parecer] <mv> V PR 3S IND VFIN @FS-STA  #3->0
+que 	[que] <clb> KS @SUB  #4->5
+está 	[estar] <aux> V PR 3S IND VFIN @FS-<SUBJ  #5->3
+latindo 	[latir] <mv> V GER @ICL-AUX<  #6->5
+$. #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+acredita 	[acreditar] <mv> V PR 3S IND VFIN @FS-STA  #3->0
+que 	[que] <clb> KS @SUB  #4->7
+o 	[o] <artd> DET M S @>N  #5->6
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #6->7
+está 	[estar] <aux> V PR 3S IND VFIN @FS-<ACC  #7->3
+a 	[a] PRP @PRT-AUX<  #8->7
+ladrar 	[ladrar] <mv> V INF @ICL-AUX<  #9->7
+$. #10->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+acredita 	[acreditar] <mv> V PR 3S IND VFIN @FS-STA  #3->0
+que 	[que] <clb> KS @SUB  #4->7
+o 	[o] <artd> DET M S @>N  #5->6
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #6->7
+está 	[estar] <aux> V PR 3S IND VFIN @FS-<ACC  #7->3
+latindo 	[latir] <mv> V GER @ICL-AUX<  #8->7
+$. #9->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #2->3
+ter 	[ter] <aux> V INF 3S @ICL-SUBJ>  #3->5
+ladrado 	[ladrar] <mv> V PCP @ICL-AUX<  #4->3
+incomodou 	[incomodar] <mv> V PS 3S IND VFIN @FS-STA  #5->0
+o 	[o] <artd> DET M S @>N  #6->7
+Atlas 	[Atlas] <hum> <*> PROP M S @<ACC  #7->5
+$. #8->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #2->3
+ter 	[ter] <aux> V INF 3S @ICL-SUBJ>  #3->5
+latido 	[latir] <mv> V PCP @ICL-AUX<  #4->3
+incomodou 	[incomodar] <mv> V PS 3S IND VFIN @FS-STA  #5->0
+o 	[o] <artd> DET M S @>N  #6->7
+Atlas 	[Atlas] <hum> <*> PROP M S @<ACC  #7->5
+$. #8->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+levou 	[levar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+dez 	[dez] <card> NUM M P @>N  #4->5
+minutos 	[minuto] N M P @<ACC  #5->3
+a 	[a] PRP @<OA  #6->3
+chegar 	[chegar] <mv> V INF @ICL-P<  #7->6
+$. #8->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+levou 	[levar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+dez 	[dez] <card> NUM M P @>N  #4->5
+minutos 	[minuto] N M P @<ACC  #5->3
+para 	[para] PRP @<OA  #6->3
+chegar 	[chegar] <mv> V INF @ICL-P<  #7->6
+$. #8->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+deixou 	[deixar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+o 	[o] <artd> DET M S @>N  #4->5
+ladrar 	[ladrar] <mv> V INF @ICL-<ACC  #5->3
+para 	[para] PRP @<ADVL  #6->5
+o 	[o] <artd> DET M S @>N  #7->8
+Bobi 	[Bobi] <hum> <*> PROP M S @P<  #8->6
+$. #9->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+deixou 	[deixar] <aux> V PS 3S IND VFIN @FS-STA  #3->0
+de 	[de] PRP @PRT-AUX<  #4->3
+latir 	[latir] <mv> V INF @ICL-AUX<  #5->3
+para 	[para] PRP @<ADVL  #6->5
+o 	[o] <artd> DET M S @>N  #7->8
+Bobi 	[Bobi] <hum> <*> PROP M S @P<  #8->6
+$. #9->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+parece 	[parecer] <mv> V PR 3S IND VFIN @FS-STA  #3->0
+velho 	[velho] <jh> ADJ M S @<SC  #4->3
+a 	[a] <sam-> PRP @<ADVL  #5->3
+o 	[o] <-sam> <artd> DET M S @>N  #6->7
+Bobi 	[Bobi] <hum> <*> PROP M S @P<  #7->5
+$. #8->0
+</ß>
+
+
+<ß>
+o 	[o] <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+parece 	[parecer] <mv> V PR 3S IND VFIN @FS-STA  #3->0
+velho 	[velho] <jh> ADJ M S @<SC  #4->3
+para 	[para] PRP @<ADVL  #5->3
+o 	[o] <artd> DET M S @>N  #6->7
+Bobi 	[Bobi] <hum> <*> PROP M S @P<  #7->5
+$. #8->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #2->3
+considera 	[considerar] <mv> V PR 3S IND VFIN @FS-STA  #3->0
+o 	[o] <artd> DET M S @>N  #4->5
+Atlas 	[Atlas] <hum> <*> PROP M S @<ACC  #5->3
+velho 	[velho] <jh> ADJ M S @<OC  #6->3
+$. #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #2->3
+considera 	[considerar] <mv> V PR 3S IND VFIN @FS-STA  #3->0
+o 	[o] <artd> DET M S @>N  #4->5
+Atlas 	[Atlas] <hum> <*> PROP M S @<ACC  #5->3
+velho 	[velho] <jh> ADJ M S @<OC  #6->3
+$. #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+gostou 	[gostar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+de 	[de] <sam-> PRP @<PIV  #4->3
+a 	[o] <-sam> <artd> DET F S @>N  #5->6
+ideia 	[ideia] N F S @P<  #6->4
+de 	[de] PRP @N<  #7->6
+que 	[que] <clb> KS @SUB  #8->11
+o 	[o] <artd> DET M S @>N  #9->10
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #10->11
+conseguia 	[conseguir] <mv> V IMPF 3S IND VFIN @FS-P<  #11->7
+ladrar 	[ladrar] <mv> V INF @ICL-<ACC  #12->11
+$. #13->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+gostou 	[gostar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+de 	[de] <sam-> PRP @<PIV  #4->3
+a 	[o] <-sam> <artd> DET F S @>N  #5->6
+ideia 	[ideia] N F S @P<  #6->4
+de 	[de] PRP @N<  #7->6
+que 	[que] <clb> KS @SUB  #8->11
+o 	[o] <artd> DET M S @>N  #9->10
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #10->11
+podia 	[poder] <aux> V IMPF 3S IND VFIN @FS-P<  #11->7
+latir 	[latir] <mv> V INF @ICL-AUX<  #12->11
+$. #13->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+ladrou 	[ladrar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+de 	[de] <sam-> PRP @<ADVL  #4->3
+as 	[o] <-sam> <artd> DET F P @>N  #5->6
+dez 	[dez] <card> NUM F P @P<  #6->4
+a 	[a] <sam-> PRP @<ADVL  #7->3
+as 	[o] <-sam> <artd> DET F P @>N  #8->9
+três 	[três] <card> NUM F P @P<  #9->7
+$. #10->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+latiu 	[latir] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+de 	[de] <sam-> PRP @<ADVL  #4->3
+as 	[o] <-sam> <artd> DET F P @>N  #5->6
+dez 	[dez] <card> NUM F P @P<  #6->4
+a 	[a] <sam-> PRP @<ADVL  #7->3
+as 	[o] <-sam> <artd> DET F P @>N  #8->9
+três 	[três] <card> NUM F P @P<  #9->7
+$. #10->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+era 	[ser] <mv> V IMPF 3S IND VFIN @FS-STA  #3->0
+muito 	[muito] <quant> ADV @>A  #4->5
+velho 	[velho] <jh> ADJ M S @<SC  #5->3
+$. #6->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+estava 	[estar] <mv> V IMPF 3S IND VFIN @FS-STA  #3->0
+muito 	[muito] <quant> ADV @>A  #4->5
+velho 	[velho] <jh> ADJ M S @<SC  #5->3
+$. #6->0
+</ß>
+
+
+<ß>
+Quase 	[quase] <*> <quant> ADV @>A  #1->2
+todos=os 	[todo=o] <quant> DET M P @>N  #2->3
+cães 	[cão] N M P @SUBJ>  #3->4
+ladraram 	[ladrar] <mv> V PS/MQP 3P IND VFIN @FS-STA  #4->0
+$. #5->0
+</ß>
+
+
+<ß>
+Quase 	[quase] <*> <quant> ADV @>A  #1->2
+todos=os 	[todo=o] <quant> DET M P @>N  #2->3
+cães 	[cão] N M P @SUBJ>  #3->4
+latiram 	[latir] <mv> V PS/MQP 3P IND VFIN @FS-STA  #4->0
+$. #5->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+ladrou 	[ladrar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+muito 	[muito] <quant> ADV @>A  #4->5
+baixinho 	[baixinho] ADV @<ADVL  #5->3
+$. #6->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+latiu 	[latir] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+bem 	[bem] <quant> ADV @>A  #4->5
+baixinho 	[baixinho] ADV @<ADVL  #5->3
+$. #6->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #2->3
+perseguir 	[perseguir] <mv> V INF 3S @ICL-SUBJ>  #3->5
+gatos 	[gato] N M P @<ACC  #4->3
+incomodou 	[incomodar] <mv> V PS 3S IND VFIN @FS-STA  #5->0
+o 	[o] <artd> DET M S @>N  #6->7
+Atlas 	[Atlas] <hum> <*> PROP M S @<ACC  #7->5
+$. #8->0
+</ß>
+
+
+<ß>
+A 	[o] <*> <artd> DET F S @>N  #1->2
+perseguição 	[perseguição] N F S @SUBJ>  #2->8
+de 	[de] PRP @N<  #3->2
+gatos 	[gato] N M P @P<  #4->3
+de 	[de] <sam-> PRP @N<  #5->4
+o 	[o] <-sam> <artd> DET M S @>N  #6->7
+Bobi 	[Bobi] <hum> <*> PROP M S @P<  #7->5
+incomodava 	[incomodar] <mv> V IMPF 3S IND VFIN @FS-STA  #8->0
+a 	[a] <sam-> PRP @<ACC  #9->8
+o 	[o] <-sam> <artd> DET M S @>N  #10->11
+Atlas 	[Atlas] <hum> <*> PROP M S @P<  #11->9
+$. #12->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+ter 	[ter] <aux> V INF 3S @ICL-SUBJ>  #3->6
+perseguido 	[perseguir] <mv> V PCP @ICL-AUX<  #4->3
+gatos 	[gato] N M P @<ACC  #5->4
+incomodou 	[incomodar] <mv> V PS 3S IND VFIN @FS-STA  #6->0
+o 	[o] <artd> DET M S @>N  #7->8
+Bobi 	[Bobi] <hum> <*> PROP M S @<ACC  #8->6
+$. #9->0
+</ß>
+
+
+<ß>
+Incomodava 	[incomodar] <*> <mv> V IMPF 1/3S IND VFIN @FS-STA  #1->0
+a 	[a] <sam-> PRP @<ACC  #2->1
+o 	[o] <-sam> <artd> DET M S @>N  #3->4
+Bobi 	[Bobi] <hum> <*> PROP M S @P<  #4->2
+que 	[que] <clb> KS @SUB  #5->7
+Atlas 	[Atlas] <hum> <*> PROP M/F S @SUBJ>  #6->7
+perseguisse 	[perseguir] <mv> V IMPF 3S SUBJ VFIN @FS-<SUBJ  #7->1
+gatos 	[gato] N M P @<ACC  #8->7
+$. #9->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->0
+três 	[três] <card> NUM M P @ADVL>  #2->5
+de 	[de] PRP @N<  #3->0
+junho 	[junho] N M S @P<  #4->3
+chegou 	[chegar] <mv> V PS 3S IND VFIN @FS-STA  #5->0
+$. #6->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->0
+três 	[três] <card> NUM M P @ADVL>  #2->5
+de 	[de] PRP @N<  #3->0
+junho 	[junho] N M S @P<  #4->3
+chegou 	[chegar] <mv> V PS 3S IND VFIN @FS-STA  #5->0
+$. #6->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+chegou 	[chegar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+a 	[a] <sam-> PRP @<ADVL  #4->3
+as 	[o] <-sam> <artd> DET F P @>N  #5->6
+três 	[três] <cjt-head> <card> NUM F P @P<  #6->4
+e 	[e] <co-prparg> KC @CO  #7->6
+vinte 	[vinte] <cjt> <card> NUM M/F P @P<  #8->6
+$. #9->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+chegou 	[chegar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+a 	[a] <sam-> PRP @<ADVL  #4->3
+as 	[o] <-sam> <artd> DET F P @>N  #5->6
+três 	[três] <cjt-head> <card> NUM F P @P<  #6->4
+e 	[e] <co-prparg> KC @CO  #7->6
+vinte 	[vinte] <cjt> <card> NUM M/F P @P<  #8->6
+$. #9->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #2->3
+chegou 	[chegar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+em 	[em] <sam-> PRP @<ADVL  #4->3
+a 	[o] <-sam> <artd> DET F S @>N  #5->6
+terça-feira 	[terça-feira] N F S @P<  #6->4
+de=manhã 	[de=manhã] ADV @<ADVL  #7->3
+$. #8->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #2->3
+chegou 	[chegar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+em 	[em] <sam-> PRP @<ADVL  #4->3
+a 	[o] <-sam> <artd> DET F S @>N  #5->6
+terça-feira 	[terça-feira] N F S @P<  #6->4
+de=manhã 	[de=manhã] ADV @<ADVL  #7->3
+$. #8->0
+</ß>
+
+
+<ß>
+Os 	[o] <*> <artd> DET M P @>N  #1->2
+gatos 	[gato] N M P @SUBJ>  #2->3
+arranjaram 	[arranjar] <mv> V PS/MQP 3P IND VFIN @FS-STA  #3->0
+uma 	[um] <arti> DET F S @>N  #4->5
+forma 	[forma] N F S @<ACC  #5->3
+de 	[de] PRP @N<  #6->5
+ladrar 	[ladrar] <mv> V INF @ICL-P<  #7->6
+$. #8->0
+</ß>
+
+
+<ß>
+Os 	[o] <*> <artd> DET M P @>N  #1->2
+gatos 	[gato] N M P @SUBJ>  #2->3
+arranjaram 	[arranjar] <mv> V PS/MQP 3P IND VFIN @FS-STA  #3->0
+uma 	[um] <arti> DET F S @>N  #4->5
+maneira 	[maneira] N F S @<ACC  #5->3
+de 	[de] PRP @N<  #6->5
+latir 	[latir] <mv> V INF @ICL-P<  #7->6
+$. #8->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->5
+mais 	[mais] <quant> <KOMP> ADV @>A  #3->4
+feliz 	[feliz] ADJ M/F S @N<  #4->2
+perseguiu 	[perseguir] <mv> V PS 3S IND VFIN @FS-STA  #5->0
+o 	[o] <artd> DET M S @>N  #6->7
+Bobi 	[Bobi] <hum> <*> PROP M S @<ACC  #7->5
+$. #8->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->5
+mais 	[mais] <quant> <KOMP> ADV @>A  #3->4
+feliz 	[feliz] ADJ M/F S @N<  #4->2
+seguiu 	[seguir] <mv> V PS 3S IND VFIN @FS-STA  #5->0
+o 	[o] <artd> DET M S @>N  #6->7
+Bobi 	[Bobi] <hum> <*> PROP M S @<ACC  #7->5
+$. #8->0
+</ß>
+
+
+<ß>
+Havia 	[haver] <*> <mv> V IMPF 1/3S IND VFIN @FS-STA  #1->0
+gatos 	[gato] N M P @<ACC  #2->1
+em 	[em] <sam-> PRP @<ADVL  #3->1
+o 	[o] <-sam> <artd> DET M S @>N  #4->5
+jardim 	[jardim] N M S @P<  #5->3
+$. #6->0
+</ß>
+
+
+<ß>
+Tinha 	[ter] <*> <mv> V IMPF 1/3S IND VFIN @FS-STA  #1->0
+gatos 	[gato] N M P @<ACC  #2->1
+em 	[em] <sam-> PRP @<ADVL  #3->1
+o 	[o] <-sam> <artd> DET M S @>N  #4->5
+jardim 	[jardim] N M S @P<  #5->3
+$. #6->0
+</ß>
+
+
+<ß>
+Aquele 	[aquele] <*> <dem> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->3
+perseguiu 	[perseguir] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+o 	[o] <artd> DET M S @>N  #4->5
+Bobi 	[Bobi] <hum> <*> PROP M S @<ACC  #5->3
+$. #6->0
+</ß>
+
+
+<ß>
+Aquele 	[aquele] <*> <dem> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->3
+perseguiu 	[perseguir] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+o 	[o] <artd> DET M S @>N  #4->5
+Bobi 	[Bobi] <hum> <*> PROP M S @<ACC  #5->3
+$. #6->0
+</ß>
+
+
+<ß>
+Alguém 	[alguém] <*> SPEC M S @SUBJ>  #1->2
+perseguiu 	[perseguir] <mv> V PS 3S IND VFIN @FS-STA  #2->0
+o 	[o] <artd> DET M S @>N  #3->4
+Atlas 	[Atlas] <hum> <*> PROP M S @<ACC  #4->2
+$. #5->0
+</ß>
+
+
+<ß>
+Alguém 	[alguém] <*> SPEC M S @SUBJ>  #1->2
+seguiu 	[seguir] <mv> V PS 3S IND VFIN @FS-STA  #2->0
+o 	[o] <artd> DET M S @>N  #3->4
+Atlas 	[Atlas] <hum> <*> PROP M S @<ACC  #4->2
+$. #5->0
+</ß>
+
+
+<ß>
+Quão 	[quão] <clb> <*> <interr> <quant> ADV @>A  #1->2
+feliz 	[feliz] <jh> ADJ M/F S @SC>  #2->3
+estava 	[estar] <mv> V IMPF 3S IND VFIN @FS-QUE  #3->0
+o 	[o] <artd> DET M S @>N  #4->5
+Atlas 	[Atlas] <hum> <*> PROP M S @<SUBJ  #5->3
+$? #6->0
+</ß>
+
+
+<ß>
+Quanto 	[quanto] <clb> <*> <interr> <quant> ADV @ADVL>  #1->5
+que 	[que] <foc> <setop> ADV @<FOC  #2->5
+o 	[o] <artd> DET M S @>N  #3->4
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #4->5
+estava 	[estar] <mv> V IMPF 3S IND VFIN @FS-QUE  #5->0
+contente 	[contente] <jh> ADJ M S @<SC  #6->5
+$? #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+número 	[número] N M S @SUBJ>  #2->4
+cinco 	[cinco] <card> NUM M/F P @N<  #3->2
+incomoda 	[incomodar] <mv> V PR 3S IND VFIN @FS-STA  #4->0
+o 	[o] <artd> DET M S @>N  #5->6
+Bobi 	[Bobi] <hum> <*> PROP M S @<ACC  #6->4
+$. #7->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+número 	[número] N M S @SUBJ>  #2->4
+cinco 	[cinco] <card> NUM M/F P @N<  #3->2
+incomoda 	[incomodar] <mv> V PR 3S IND VFIN @FS-STA  #4->0
+a 	[a] <sam-> PRP @<ACC  #5->4
+o 	[o] <-sam> <artd> DET M S @>N  #6->7
+Bobi 	[Bobi] <hum> <*> PROP M S @P<  #7->5
+$. #8->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+conseguiu 	[conseguir] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+$. #4->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Atlas 	[Atlas] <hum> <*> PROP M S @SUBJ>  #2->3
+podia 	[poder] <mv> V IMPF 3S IND VFIN @FS-STA  #3->0
+$. #4->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #2->3
+tentou 	[tentar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+$. #4->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Bobi 	[Bobi] <hum> <*> PROP M S @SUBJ>  #2->3
+tentou 	[tentar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+fazer 	[fazer] <mv> V INF @ICL-<ACC  #4->3
+$. #5->0
+</ß>
+
+
+<ß>
+Não 	[não] <*> <setop> ADV @ADVL>  #1->2
+ladres 	[ladrar] <mv> V PR 2S SUBJ VFIN @FS-STA  #2->0
+$! #3->0
+</ß>
+
+
+<ß>
+Não 	[não] <*> <setop> ADV @ADVL>  #1->2
+lata 	[latir] <mv> V PR 1/3S SUBJ VFIN @FS-STA  #2->0
+$! #3->0
+</ß>
+
+
+<ß>
+O 	[o] <*> <artd> DET M S @>N  #1->2
+cão 	[cão] N M S @SUBJ>  #2->3
+chegou 	[chegar] <aux> V PS 3S IND VFIN @FS-STA  #3->0
+a 	[a] PRP @PRT-AUX<  #4->3
+ladrar 	[ladrar] <mv> V INF @ICL-AUX<  #5->3
+$. #6->0
+</ß>
+
+
+<ß>
+o 	[o] <artd> DET M S @>N  #1->2
+cachorro 	[cachorro] N M S @SUBJ>  #2->3
+chegou 	[chegar] <mv> V PS 3S IND VFIN @FS-STA  #3->0
+latindo 	[latir] <mv> V GER @ICL-<ADVL  #4->3
+$. #5->0
+</ß>
