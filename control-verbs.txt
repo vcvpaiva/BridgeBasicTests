@@ -1,0 +1,54 @@
+RAISING AND CONTROL VERBS, from 
+https://pdfs.semanticscholar.org/a986/73d4f7d284ed2d0b16c56a41785ada82e392.pdf
+USING VERY LARGE CORPORA TO DETECT RAISING AND CONTROL VERBS
+Grzegorz Chrupała and Josef van Genabith
+National Center for Language Technology, Dublin City University
+Proceedings of the LFG07 Conference, Miriam Butt and Tracy Holloway King (Editors), 2007, CSLI Publications
+-------
+afford TO 0  control
+agreed TO 0 control
+aims TO 0 control
+appeared TO 1 raise  3 occs
+attempt TO 0 control  2 
+begin TO 1 raise     1
+came TO 1 raise     9
+chose TO 0 control
+decide TO 0 control
+decline TO 0 control
+expected TO 0 control
+failed TO 1  raise 2
+get TO 0.667   47 (in, into, out not to)
+happen TO 1 raise
+helped TO 0  control  6, no tos
+hesitate TO 0 control
+hope TO 0 control
+hoped TO 0 control
+include VBG 1 raise
+intend TO 0 control
+like TO 0 control   8  (3 look likes, one more ADP) 
+moved TO  control  14 (through and adjective)
+offer TO 0  control
+plan TO 0   control 
+prefer TO 0  control
+prepared TO 0  control
+promised TO 0 control
+proposed TO 0 control
+prove TO 1 raise
+refuse TO 0 control  1 occ
+remains TO 1  raise
+said TO 1  raise  7 occs, none to
+scrambled TO 0 control 4 occs (for)
+seeks TO 0 control   4 occs no to
+seemed TO 1 raise
+serve TO 0  control 3 occs not to, volleyball
+start TO 0.667 ?? 1 occ
+stood TO 1 raise > 250, but couldn't see TO
+struggles TO 0  control
+tend TO 1 raise
+threatens TO 0 control
+tries TO 0 control 13 occs all "to" all wrong?
+turn out TO 1 raise  11 occs turn, not a single to
+vote TO 0 control 
+want TO 0  control
+wish TO 0  control
+worked TO 0 control 4 occs not a single to
