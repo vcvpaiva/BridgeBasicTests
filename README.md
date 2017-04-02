@@ -12,3 +12,5 @@ Several LFG treebanks in http://clarino.uib.no/iness/treebanks?session-id=242028
 More information about PARGRAM/PARSEM at http://pargram.b.uib.no/ and http://typo.uni-konstanz.de/redmine/.
 
 The PARC 700 dependency is available at   http://www2.parc.com/isl/groups/nltt/fsbank/
+
+This repo also contains testsuites developed by the project DelphIN, and some translations in Portuguese.
