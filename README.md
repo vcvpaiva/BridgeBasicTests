@@ -13,4 +13,4 @@ More information about PARGRAM/PARSEM at http://pargram.b.uib.no/ and http://typ
 
 The PARC 700 dependency is available at   http://www2.parc.com/isl/groups/nltt/fsbank/
 
-This repo also contains testsuites developed by the project DelphIN, and some translations in Portuguese.
+This repo also contains testsuites developed by the project Delph-IN http://moin.delph-in.net/ErgSemantics and some translations in Portuguese.
