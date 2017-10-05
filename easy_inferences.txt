@@ -1,0 +1,167 @@
+% Examples for AQUAINT-demo 11/10/2006, 
+% from Tracy H. King and Rowan Nairn  
+% WH-PAIRS 
+ 
+ John and Mary left. 
+ Who left? 
+ 
+ All the girls left. 
+ Which girls left? 
+ 
+ Mary arrived on Sunday. 
+ When did Mary arrive? 
+
+ Mary left after John arrived. 
+ When did Mary leave? 
+ 
+ The girl that Mary saw left. 
+  Who saw the girl? 
+
+ The girl that Mary saw left. 
+ Who left? 
+ 
+ The girl that Mary saw left. 
+ Who was seen? 
+ 
+ The girl that Mary saw left. 
+ Who was seen by Mary? 
+ 
+ % YES-NO PAIRS  
+John and Mary left. 
+Did John leave? 
+
+ John and Mary left. 
+ Did anyone leave? 
+ 
+ No one left. 
+ Did anyone leave? 
+ 
+ Everyone left. 
+ Did anyone leave? 
+
+ John saw the boys and girls. 
+ Did John see the girls? 
+
+ John saw the boys and girls. 
+ Did John see any girls? 
+
+ The girls broke the window. 
+ Did the window break? 
+ 
+ The girls broke the window. 
+ Was the window broken? 
+ 
+ The window was broken by the girls. 
+ Did the girls break the window? 
+ 
+ The window was broken by the girls. 
+ Was the window broken by the girls? 
+
+ The girls broke the window. 
+ Was the window broken by the girls? 
+ 
+ Mary left after John arrived. 
+ Did John arrive? 
+ 
+ Neither the cat nor the dog ate. 
+ Did the cat eat? 
+
+ Neither the cat nor the dog ate. 
+ Did the cat or the dog eat? 
+ 
+ Neither the cat nor the dog ate. 
+ Did anything eat? 
+ 
+ The girl that Mary saw left. 
+ Did the girl leave? 
+ 
+ The girl that Mary saw left. 
+ Did Mary see the girl? 
+
+ The girl that Mary saw left. 
+ Did the girl see Mary? 
+ 
+ The girl that Mary saw left. 
+ Did Mary leave? 
+
+ Mary saw the girl who John likes. 
+ Did Mary see the girl? 
+ 
+ Mary saw the girl who John likes. 
+ Does John like the girl? 
+ 
+ Mary saw the girl who John likes. 
+ Does John like Mary? 
+ 
+ Mary saw the girl who John likes. 
+ Does John like Jane? 
+  
+ Mary saw the girl who John likes. 
+ Did Mary see a girl? 
+ 
+ Mary saw the girl who John likes. 
+ Did Mary see several girls? 
+
+ Mary left. 
+ Did Jane leave? 
+ 
+ John Smith left. 
+ Did John leave? 
+
+ John Smith left. 
+ Did Mr. Smith leave? 
+ 
+ Rome's destruction of Carthage was complete. 
+ Did Rome destroy Carthage? 
+
+ The destruction of Carthage was complete. 
+ Was Carthage destroyed? 
+ 
+ The destruction of Carthage was complete. 
+ Did Rome destroy Carthage? 
+ 
+ Mary's laughter was heard. 
+ Did Mary laugh? 
+ 
+ Mary's laughter was not heard. 
+ Did Mary laugh? 
+ 
+ John forgot to call Mary. 
+ Did John call Mary? 
+
+ John forgot to call Mary. 
+ Did John call? 
+
+ John forgot to call Mary. 
+ Was Mary called? 
+
+ John forgot to call Mary. 
+ Was Mary called by John? 
+
+ John did not forget to call Mary 
+ Was Mary called? 
+ 
+ John pretended to like Ed. 
+ Did John like Ed? 
+ 
+ John did not pretend to like Ed. 
+ Did John like Ed? 
+ 
+ Mary thought John knew that Ed left. 
+ Did Ed leave? 
+ 
+ Mary thinks that John didn't know that Ed left. 
+ Did Ed leave? 
+ 
+ John pretended to attempt to hit Ed. 
+ Did John hit Ed? 
+ 
+ John pretended to acknowledge that Ed left. 
+ Did Ed leave? 
+ 
+ John forgot that Ed forced Mary to leave. 
+ Did Mary leave? 
+ 
+ John came to believe that Ed had not forced Mary to pretend that Dave left. 
+ Did Dave leave? 
+    
