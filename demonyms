@@ -1,0 +1,96 @@
+init-tqa
+tqa {Armed Forces soldiers murdered three Chinese citizens.} \
+    {Armed Forces soldiers murdered three  citizens of China.} YES YES 
+
+tqa {U.S. military evacuated the Japanese citizens.} \
+    {U.S. military evacuated  Japan's citizens.} YES YES 
+
+tqa {The Chinese economy is growing.} \
+    {China's economy is growing.} YES YES 
+
+tqa {Ed knows that the Chinese economy is growing.} \
+    {China's economy is growing.} YES YES 
+
+tqa {Ed knows that the Chinese economy has grown.} \
+    {China's economy has grown.} YES YES 
+
+tqa {Japanese and Chinese troops are located in the region.} \
+    {Japanese troops are located in the region.} YES YES 
+
+tqa {Troops from Japan are located in Iraq.} \
+    {Japanese troops are located in Iraq.} YES UNKNOWN {problem seems copula, be concept}
+
+tqa {Japanese and Chinese troops are located in Iraq.} \
+    {Japan's troops are located in Iraq.} YES YES 
+
+tqa {Japanese and Chinese troops are located in Iraq.} \
+    {China's troops are located in Iraq.} YES YES 
+
+tqa {The Nigerian nation state was created in 1903.} \
+    {Was the Nigerian nation state created in 1903?} YES YES 
+
+tqa {Armed Forces soldiers murdered three Chinese citizens.} \
+    {Armed Forces soldiers murdered three  citizens of China.} YES YES 
+
+tqa {U.S. military evacuated the Japanese citizens.} \
+    {U.S. military evacuated  Japan's citizens.} YES YES 
+
+tqa {The Chinese economy is growing.} \
+    {China's economy is growing.} YES YES 
+
+tqa {Ed knows that the Chinese economy is growing.} \
+    {China's economy is growing.} YES YES 
+
+tqa {Ed knows that the Chinese economy has grown.} \
+    {China's economy has grown.} YES YES 
+
+tqa {Japanese and Chinese troops are located in the region.} \
+    {Japanese troops are located in the region.} YES YES 
+
+tqa {Japan's singers hopped.} \
+    {Japanese singers hopped.} YES UNKNOWN {deverbal problem}
+
+tqa {Japanese and Chinese troops are located in Iraq.} \
+    {Japan's troops are located in Iraq.} YES YES 
+
+tqa {Japanese and Chinese troops are located in Iraq.} \
+    {China's troops are located in Iraq.} YES YES 
+
+tqa {The Nigerian nation state was created in 1903.} \
+    {Was the Nigerian nation state created in 1903?} YES YES 
+
+tqa {Japan's culture has had a great impact on daily life.} \
+    {Japanese culture has had a great impact on daily life.} YES YES 
+
+tqa {Mary knows that Japan's Diplomats are walking in the park.} \
+    {The Japanese Diplomats are walking.} YES YES 
+
+tqa {The U.S. military evacuated the Chinese athletes.} \
+    {The U.S. military evacuated China's athletes.} YES YES 
+
+tqa {Japan's and China's students often come to the U.S. to go to university.} \
+    {Japanese students often come to the U.S. to go to university.} YES UNKNOWN {problem is that student is deverbal}
+
+tqa {The Chinese government is represented by only one party.} \
+    {China's government is represented by only one party.} YES YES 
+
+tqa {Japan's royal family is well liked.} \
+    {The Japanese royal family is well liked.} YES YES 
+
+tqa {The great wall is located in the west of the Chinese territory.} \
+    {The great wall is located in the west of China's territory.} YES YES 
+
+tqa {Children of Germany usually do not wear leather pants.} \
+    {German children usually do not wear leather pants.} YES YES 
+
+tqa {East African art is beautiful.} \
+    {The art of East Africa is beautiful.} YES YES {theory of    names, alias}
+
+tqa {We saw the children of South Africa.} \
+    {We saw South Africa's children.} YES YES 
+
+tqa {The Bolivian capital is the highest capital  in the world.} \
+    {The capital of Bolivia is the highest capital in the world.} YES YES 
+    display-tqa-tally
+# Number correct:   28
+# Number incorrect: 3
